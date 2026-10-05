@@ -1,0 +1,19 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import sharp from 'sharp';
+process.chdir(path.resolve(import.meta.dirname, '..'));
+const config = JSON.parse(await fs.readFile('profile.config.json', 'utf8'));
+const data = JSON.parse(await fs.readFile('data/profile.json', 'utf8'));
+const readme = await fs.readFile('README.md', 'utf8');
+if (config.favorites.length !== 7 || new Set(config.favorites.map(f => f.id)).size !== 7) throw Error('Seven distinct favorite titles are required');
+if (data.calendar.days.length < 350) throw Error('Contribution calendar incomplete');
+for (const favorite of config.favorites) if (!data.games.data.some(g => g.subject_id === favorite.id)) throw Error(`Missing favorite ${favorite.title}`);
+const imageNames = ['header', 'favorites', 'github', 'playing', 'watching', 'characters', 'community', 'project-fallback-0', 'project-fallback-1'];
+for (const name of imageNames) {
+  const meta = await sharp(`assets/generated/${name}.png`).metadata();
+  if (!meta.width || !meta.height) throw Error(`Invalid image ${name}`);
+}
+const prefix = `https://raw.githubusercontent.com/${config.repository}/main/`;
+for (const match of readme.matchAll(/src="([^"]+)"/g)) if (match[1].startsWith(prefix)) await fs.access(match[1].slice(prefix.length));
+if (/ghp_|github_pat_|Bearer\s/.test(readme)) throw Error('Credential-like text in README');
+console.log('Verified favorite identities, contribution calendar, image decoding, and all repository image links.');
