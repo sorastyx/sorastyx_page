@@ -40,12 +40,12 @@
     "hireable": null,
     "bio": "A student from Jilin University,majoring software engineering.My research direction is recommendation system.",
     "twitter_username": null,
-    "public_repos": 9,
+    "public_repos": 10,
     "public_gists": 0,
     "followers": 36,
     "following": 78,
     "created_at": "2020-08-03T07:38:10Z",
-    "updated_at": "2026-09-12T01:06:08Z"
+    "updated_at": "2026-10-05T14:16:18Z"
   },
   "repos": [
     {
@@ -721,6 +721,116 @@
       }
     },
     {
+      "id": 1405883966,
+      "node_id": "R_kgDOU8wWPg",
+      "name": "sorastyx",
+      "full_name": "sorastyx/sorastyx",
+      "private": false,
+      "owner": {
+        "login": "sorastyx",
+        "id": 69140348,
+        "node_id": "MDQ6VXNlcjY5MTQwMzQ4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69140348?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sorastyx",
+        "html_url": "https://github.com/sorastyx",
+        "followers_url": "https://api.github.com/users/sorastyx/followers",
+        "following_url": "https://api.github.com/users/sorastyx/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sorastyx/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sorastyx/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sorastyx/subscriptions",
+        "organizations_url": "https://api.github.com/users/sorastyx/orgs",
+        "repos_url": "https://api.github.com/users/sorastyx/repos",
+        "events_url": "https://api.github.com/users/sorastyx/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sorastyx/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/sorastyx/sorastyx",
+      "description": "GitHub profile",
+      "fork": false,
+      "url": "https://api.github.com/repos/sorastyx/sorastyx",
+      "forks_url": "https://api.github.com/repos/sorastyx/sorastyx/forks",
+      "keys_url": "https://api.github.com/repos/sorastyx/sorastyx/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/sorastyx/sorastyx/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/sorastyx/sorastyx/teams",
+      "hooks_url": "https://api.github.com/repos/sorastyx/sorastyx/hooks",
+      "issue_events_url": "https://api.github.com/repos/sorastyx/sorastyx/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/sorastyx/sorastyx/events",
+      "assignees_url": "https://api.github.com/repos/sorastyx/sorastyx/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/sorastyx/sorastyx/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/sorastyx/sorastyx/tags",
+      "blobs_url": "https://api.github.com/repos/sorastyx/sorastyx/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/sorastyx/sorastyx/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/sorastyx/sorastyx/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/sorastyx/sorastyx/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/sorastyx/sorastyx/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/sorastyx/sorastyx/languages",
+      "stargazers_url": "https://api.github.com/repos/sorastyx/sorastyx/stargazers",
+      "contributors_url": "https://api.github.com/repos/sorastyx/sorastyx/contributors",
+      "subscribers_url": "https://api.github.com/repos/sorastyx/sorastyx/subscribers",
+      "subscription_url": "https://api.github.com/repos/sorastyx/sorastyx/subscription",
+      "commits_url": "https://api.github.com/repos/sorastyx/sorastyx/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/sorastyx/sorastyx/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/sorastyx/sorastyx/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/sorastyx/sorastyx/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/sorastyx/sorastyx/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/sorastyx/sorastyx/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/sorastyx/sorastyx/merges",
+      "archive_url": "https://api.github.com/repos/sorastyx/sorastyx/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/sorastyx/sorastyx/downloads",
+      "issues_url": "https://api.github.com/repos/sorastyx/sorastyx/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/sorastyx/sorastyx/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/sorastyx/sorastyx/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/sorastyx/sorastyx/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/sorastyx/sorastyx/labels{/name}",
+      "releases_url": "https://api.github.com/repos/sorastyx/sorastyx/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx/deployments",
+      "created_at": "2026-10-05T14:16:15Z",
+      "updated_at": "2026-10-05T14:16:21Z",
+      "pushed_at": "2026-10-05T14:16:17Z",
+      "git_url": "git://github.com/sorastyx/sorastyx.git",
+      "ssh_url": "git@github.com:sorastyx/sorastyx.git",
+      "clone_url": "https://github.com/sorastyx/sorastyx.git",
+      "svn_url": "https://github.com/sorastyx/sorastyx",
+      "homepage": null,
+      "size": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": null,
+      "has_issues": false,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1208256042,
       "node_id": "R_kgDOSASGKg",
       "name": "sorastyx.github.io",
@@ -898,14 +1008,14 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-05T13:53:19Z",
-      "pushed_at": "2026-10-05T13:53:15Z",
+      "updated_at": "2026-10-05T14:16:50Z",
+      "pushed_at": "2026-10-05T14:16:45Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
       "svn_url": "https://github.com/sorastyx/sorastyx_page",
       "homepage": null,
-      "size": 0,
+      "size": 23682,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -4207,7 +4317,7 @@
             {
               "name": "Galgame",
               "count": 425,
-              "total_count": 455594
+              "total_count": 455598
             },
             {
               "name": "哲学",
@@ -4222,7 +4332,7 @@
             {
               "name": "科幻",
               "count": 109,
-              "total_count": 9672
+              "total_count": 9673
             },
             {
               "name": "杂学",
@@ -4242,7 +4352,7 @@
             {
               "name": "PC",
               "count": 63,
-              "total_count": 312721
+              "total_count": 312726
             },
             {
               "name": "2005",
@@ -4807,12 +4917,12 @@
             {
               "name": "Galgame",
               "count": 938,
-              "total_count": 455465
+              "total_count": 455598
             },
             {
               "name": "同人",
               "count": 644,
-              "total_count": 32983
+              "total_count": 32996
             },
             {
               "name": "推理悬疑",
@@ -4827,12 +4937,12 @@
             {
               "name": "AVG",
               "count": 391,
-              "total_count": 71615
+              "total_count": 71642
             },
             {
               "name": "悬疑",
               "count": 383,
-              "total_count": 32746
+              "total_count": 32761
             },
             {
               "name": "馆",
@@ -4842,12 +4952,12 @@
             {
               "name": "PC",
               "count": 239,
-              "total_count": 312452
+              "total_count": 312726
             },
             {
               "name": "全年龄",
               "count": 232,
-              "total_count": 36503
+              "total_count": 36520
             },
             {
               "name": "魔女",
@@ -6833,7 +6943,7 @@
             {
               "name": "原创",
               "count": 448,
-              "total_count": 631516
+              "total_count": 631522
             },
             {
               "name": "2025年7月",
@@ -6848,7 +6958,7 @@
             {
               "name": "TV",
               "count": 271,
-              "total_count": 1432044
+              "total_count": 1432074
             },
             {
               "name": "音乐",
@@ -6868,7 +6978,7 @@
             {
               "name": "日本",
               "count": 144,
-              "total_count": 307711
+              "total_count": 307731
             },
             {
               "name": "无法预测的命运之舞台",
@@ -6886,7 +6996,7 @@
           "id": 475032,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 3724,
+          "collection_total": 3725,
           "rank": 10332
         },
         "subject_id": 475032,
@@ -6916,18 +7026,18 @@
           "tags": [
             {
               "name": "异世界",
-              "count": 872,
-              "total_count": 269650
+              "count": 873,
+              "total_count": 269672
             },
             {
               "name": "2026年7月",
-              "count": 682,
-              "total_count": 28015
+              "count": 683,
+              "total_count": 28029
             },
             {
               "name": "奇幻",
               "count": 611,
-              "total_count": 484856
+              "total_count": 484885
             },
             {
               "name": "WHITEFOX",
@@ -6937,27 +7047,27 @@
             {
               "name": "TV",
               "count": 564,
-              "total_count": 1432036
+              "total_count": 1432085
             },
             {
               "name": "战斗",
               "count": 563,
-              "total_count": 483008
+              "total_count": 483024
             },
             {
               "name": "轻小说改",
               "count": 500,
-              "total_count": 505255
+              "total_count": 505274
             },
             {
               "name": "冒险",
               "count": 368,
-              "total_count": 56026
+              "total_count": 56031
             },
             {
               "name": "小说改",
               "count": 341,
-              "total_count": 165250
+              "total_count": 165267
             },
             {
               "name": "轮回",
@@ -6970,7 +7080,7 @@
           "id": 633836,
           "eps": 8,
           "volumes": 0,
-          "collection_total": 11614,
+          "collection_total": 11618,
           "rank": 1609
         },
         "subject_id": 633836,
@@ -7000,28 +7110,28 @@
           "tags": [
             {
               "name": "里番",
-              "count": 76,
-              "total_count": 318190
+              "count": 77,
+              "total_count": 318193
             },
             {
               "name": "2026年10月",
-              "count": 75,
-              "total_count": 5944
+              "count": 76,
+              "total_count": 5953
             },
             {
               "name": "漫画改",
               "count": 73,
-              "total_count": 883051
+              "total_count": 883074
             },
             {
               "name": "TV",
               "count": 65,
-              "total_count": 1432046
+              "total_count": 1432077
             },
             {
               "name": "2026",
               "count": 43,
-              "total_count": 51047
+              "total_count": 51054
             },
             {
               "name": "雪女",
@@ -7029,14 +7139,14 @@
               "total_count": 624
             },
             {
-              "name": "泡面番",
-              "count": 36,
-              "total_count": 156391
-            },
-            {
               "name": "日本",
               "count": 36,
-              "total_count": 307711
+              "total_count": 307732
+            },
+            {
+              "name": "泡面番",
+              "count": 36,
+              "total_count": 156392
             },
             {
               "name": "studioHōKIBOSHI",
@@ -7054,7 +7164,7 @@
           "id": 656083,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 1483,
+          "collection_total": 1486,
           "rank": 7682
         },
         "subject_id": 656083,
@@ -7085,22 +7195,22 @@
             {
               "name": "BanGDream",
               "count": 8143,
-              "total_count": 21158
+              "total_count": 21159
             },
             {
               "name": "原创",
               "count": 7522,
-              "total_count": 631505
+              "total_count": 631522
             },
             {
               "name": "音乐",
               "count": 6903,
-              "total_count": 104966
+              "total_count": 104968
             },
             {
               "name": "百合",
               "count": 6065,
-              "total_count": 410629
+              "total_count": 410639
             },
             {
               "name": "扭曲",
@@ -7115,17 +7225,17 @@
             {
               "name": "乐队",
               "count": 3125,
-              "total_count": 23734
+              "total_count": 23735
             },
             {
               "name": "偶像",
               "count": 3022,
-              "total_count": 72420
+              "total_count": 72421
             },
             {
               "name": "TV",
               "count": 2932,
-              "total_count": 1432005
+              "total_count": 1432074
             },
             {
               "name": "3D",
@@ -7138,7 +7248,7 @@
           "id": 428735,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 58046,
+          "collection_total": 58048,
           "rank": 281
         },
         "subject_id": 428735,
@@ -7169,47 +7279,47 @@
             {
               "name": "异世界",
               "count": 1552,
-              "total_count": 269647
+              "total_count": 269672
             },
             {
               "name": "奇幻",
               "count": 1162,
-              "total_count": 484852
+              "total_count": 484885
             },
             {
               "name": "2026年4月",
               "count": 1071,
-              "total_count": 25931
+              "total_count": 25939
             },
             {
               "name": "战斗",
               "count": 969,
-              "total_count": 483004
+              "total_count": 483024
             },
             {
               "name": "WHITEFOX",
               "count": 939,
-              "total_count": 34155
+              "total_count": 34156
             },
             {
               "name": "TV",
               "count": 888,
-              "total_count": 1432025
+              "total_count": 1432085
             },
             {
               "name": "轻小说改",
               "count": 825,
-              "total_count": 505252
+              "total_count": 505274
             },
             {
               "name": "小说改",
               "count": 612,
-              "total_count": 165247
+              "total_count": 165267
             },
             {
               "name": "冒险",
               "count": 574,
-              "total_count": 56024
+              "total_count": 56031
             },
             {
               "name": "轮回",
@@ -7258,7 +7368,7 @@
             {
               "name": "漫画改",
               "count": 2166,
-              "total_count": 883011
+              "total_count": 883079
             },
             {
               "name": "2014年7月",
@@ -7268,12 +7378,12 @@
             {
               "name": "战斗",
               "count": 1770,
-              "total_count": 482981
+              "total_count": 483023
             },
             {
               "name": "TV",
               "count": 1536,
-              "total_count": 1431984
+              "total_count": 1432081
             },
             {
               "name": "StudioPierrot",
@@ -7283,7 +7393,7 @@
             {
               "name": "奇幻",
               "count": 932,
-              "total_count": 484824
+              "total_count": 484883
             },
             {
               "name": "2014",
@@ -7293,7 +7403,7 @@
             {
               "name": "漫改",
               "count": 778,
-              "total_count": 366886
+              "total_count": 366902
             },
             {
               "name": "花泽香菜",
@@ -7306,7 +7416,7 @@
           "id": 93714,
           "eps": 12,
           "volumes": 0,
-          "collection_total": 29910,
+          "collection_total": 29913,
           "rank": 3676
         },
         "subject_id": 93714,
@@ -7426,12 +7536,12 @@
             {
               "name": "后宫",
               "count": 1039,
-              "total_count": 308797
+              "total_count": 308808
             },
             {
               "name": "轻小说改",
               "count": 769,
-              "total_count": 505232
+              "total_count": 505267
             },
             {
               "name": "约会大作战",
@@ -7441,7 +7551,7 @@
             {
               "name": "恋爱",
               "count": 658,
-              "total_count": 576746
+              "total_count": 576800
             },
             {
               "name": "2024年4月",
@@ -7451,12 +7561,12 @@
             {
               "name": "战斗",
               "count": 532,
-              "total_count": 482971
+              "total_count": 483016
             },
             {
               "name": "TV",
               "count": 505,
-              "total_count": 1431968
+              "total_count": 1432070
             },
             {
               "name": "GeekToys",
@@ -7466,12 +7576,12 @@
             {
               "name": "2024",
               "count": 282,
-              "total_count": 72597
+              "total_count": 72602
             },
             {
               "name": "轻改",
               "count": 246,
-              "total_count": 154381
+              "total_count": 154393
             }
           ],
           "score": 6.6,
@@ -7479,7 +7589,7 @@
           "id": 389466,
           "eps": 12,
           "volumes": 0,
-          "collection_total": 10206,
+          "collection_total": 10207,
           "rank": 4780
         },
         "subject_id": 389466,
@@ -7515,22 +7625,22 @@
             {
               "name": "催泪",
               "count": 2790,
-              "total_count": 61096
+              "total_count": 61097
             },
             {
               "name": "原创",
               "count": 2664,
-              "total_count": 631513
+              "total_count": 631526
             },
             {
               "name": "动画工房",
               "count": 2527,
-              "total_count": 64464
+              "total_count": 64468
             },
             {
               "name": "恋爱",
               "count": 2507,
-              "total_count": 576779
+              "total_count": 576806
             },
             {
               "name": "2015年4月",
@@ -7540,12 +7650,12 @@
             {
               "name": "科幻",
               "count": 1597,
-              "total_count": 257811
+              "total_count": 257814
             },
             {
               "name": "TV",
               "count": 1325,
-              "total_count": 1432031
+              "total_count": 1432078
             },
             {
               "name": "可塑性记忆",
@@ -7568,7 +7678,7 @@
           "id": 114685,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 29452,
+          "collection_total": 29454,
           "rank": 2534
         },
         "subject_id": 114685,
@@ -7602,17 +7712,17 @@
             {
               "name": "2023年10月",
               "count": 1907,
-              "total_count": 37850
+              "total_count": 37853
             },
             {
               "name": "原创",
               "count": 1667,
-              "total_count": 631452
+              "total_count": 631526
             },
             {
               "name": "TV",
               "count": 1358,
-              "total_count": 1431756
+              "total_count": 1432080
             },
             {
               "name": "galgame",
@@ -7622,7 +7732,7 @@
             {
               "name": "漫画改",
               "count": 1002,
-              "total_count": 882844
+              "total_count": 883078
             },
             {
               "name": "st.SILVER",
@@ -7632,7 +7742,7 @@
             {
               "name": "穿越",
               "count": 671,
-              "total_count": 64897
+              "total_count": 64913
             },
             {
               "name": "GALGAME科普",
@@ -7642,12 +7752,12 @@
             {
               "name": "2023",
               "count": 620,
-              "total_count": 82467
+              "total_count": 82469
             },
             {
               "name": "科普",
               "count": 478,
-              "total_count": 13017
+              "total_count": 13019
             }
           ],
           "score": 5.5,
@@ -7655,7 +7765,7 @@
           "id": 413741,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 16503,
+          "collection_total": 16504,
           "rank": 9346
         },
         "subject_id": 413741,
@@ -9497,11 +9607,11 @@
       },
       {
         "date": "2026-10-05",
-        "level": 1,
-        "count": 5
+        "level": 2,
+        "count": 7
       }
     ],
-    "total": 154
+    "total": 156
   },
   "characters": []
 }
