@@ -8,7 +8,7 @@ const readme = await fs.readFile('README.md', 'utf8');
 if (config.favorites.length !== 7 || new Set(config.favorites.map(f => f.id)).size !== 7) throw Error('Seven distinct favorite titles are required');
 if (data.calendar.days.length < 350) throw Error('Contribution calendar incomplete');
 for (const favorite of config.favorites) if (!data.games.data.some(g => g.subject_id === favorite.id)) throw Error(`Missing favorite ${favorite.title}`);
-const imageNames = ['header', 'favorites', 'github', 'languages', 'playing', 'watching', 'characters', 'community', 'project-fallback-0', 'project-fallback-1'];
+const imageNames = ['header', 'favorites', 'favorites-summary', 'github', 'github-summary', 'activity', 'current-summary', 'languages', 'playing', 'watching', 'characters', 'community', 'project-fallback-0', 'project-fallback-1'];
 for (const name of imageNames) {
   const meta = await sharp(`assets/generated/${name}.png`).metadata();
   if (!meta.width || !meta.height) throw Error(`Invalid image ${name}`);

@@ -69,7 +69,8 @@ if (!offline) {
   const tasks = {
     github: () => request(gh), repos: () => reposPromise,
     languages: async () => {
-      const repos = (await reposPromise).filter(r => !r.fork && r.full_name !== config.repository);
+      const excluded = new Set([config.repository, ...(config.languageExcludedRepositories || [])]);
+      const repos = (await reposPromise).filter(r => !r.fork && !excluded.has(r.full_name));
       const totals = {};
       for (const languages of await Promise.all(repos.map(r => request(r.languages_url)))) {
         for (const [language, bytes] of Object.entries(languages)) totals[language] = (totals[language] || 0) + bytes;
