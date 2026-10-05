@@ -149,7 +149,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1260845621,
@@ -258,7 +265,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "master"
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1208570031,
@@ -361,7 +375,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1136070555,
@@ -464,7 +485,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 10,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1241627552,
@@ -573,7 +601,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1168552921,
@@ -676,7 +711,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1208256042,
@@ -779,7 +821,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1405781333,
@@ -849,8 +898,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-05T13:33:15Z",
-      "pushed_at": "2026-10-05T13:33:11Z",
+      "updated_at": "2026-10-05T13:51:00Z",
+      "pushed_at": "2026-10-05T13:50:56Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
@@ -882,7 +931,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1283651638,
@@ -985,7 +1041,14 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     }
   ],
   "languages": {
@@ -1775,7 +1838,14 @@
       "forks": 6,
       "open_issues": 0,
       "watchers": 33,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 284698414,
@@ -1889,7 +1959,14 @@
       "forks": 302,
       "open_issues": 14,
       "watchers": 3108,
-      "default_branch": "master"
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     },
     {
       "id": 1125925053,
@@ -2019,7 +2096,14 @@
       "forks": 14,
       "open_issues": 0,
       "watchers": 32,
-      "default_branch": "main"
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     }
   ],
   "games": {
@@ -4123,7 +4207,7 @@
             {
               "name": "Galgame",
               "count": 425,
-              "total_count": 455592
+              "total_count": 455593
             },
             {
               "name": "哲学",
@@ -4158,7 +4242,7 @@
             {
               "name": "PC",
               "count": 63,
-              "total_count": 312717
+              "total_count": 312720
             },
             {
               "name": "2005",
@@ -5862,7 +5946,7 @@
             {
               "name": "Galgame",
               "count": 553,
-              "total_count": 455572
+              "total_count": 455593
             },
             {
               "name": "FrontWing",
@@ -5872,7 +5956,7 @@
             {
               "name": "全年龄",
               "count": 387,
-              "total_count": 36514
+              "total_count": 36520
             },
             {
               "name": "紺野アスタ",
@@ -5902,12 +5986,12 @@
             {
               "name": "短篇",
               "count": 69,
-              "total_count": 11083
+              "total_count": 11085
             },
             {
               "name": "GAL",
               "count": 67,
-              "total_count": 47203
+              "total_count": 47206
             }
           ],
           "score": 5.8,
@@ -5915,7 +5999,7 @@
           "id": 402654,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 2956,
+          "collection_total": 2957,
           "rank": 9897
         },
         "subject_id": 402654,
@@ -6483,7 +6567,7 @@
             {
               "name": "Galgame",
               "count": 1763,
-              "total_count": 455559
+              "total_count": 455592
             },
             {
               "name": "Navel",
@@ -6536,7 +6620,7 @@
           "id": 44123,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 9371,
+          "collection_total": 9372,
           "rank": 1027
         },
         "subject_id": 44123,
@@ -6833,17 +6917,17 @@
             {
               "name": "异世界",
               "count": 872,
-              "total_count": 269647
+              "total_count": 269650
             },
             {
               "name": "2026年7月",
               "count": 682,
-              "total_count": 28013
+              "total_count": 28015
             },
             {
               "name": "奇幻",
               "count": 611,
-              "total_count": 484855
+              "total_count": 484856
             },
             {
               "name": "WHITEFOX",
@@ -6853,12 +6937,12 @@
             {
               "name": "TV",
               "count": 564,
-              "total_count": 1432033
+              "total_count": 1432036
             },
             {
               "name": "战斗",
               "count": 563,
-              "total_count": 483007
+              "total_count": 483008
             },
             {
               "name": "轻小说改",
@@ -6922,22 +7006,22 @@
             {
               "name": "2026年10月",
               "count": 75,
-              "total_count": 5937
+              "total_count": 5942
             },
             {
               "name": "漫画改",
               "count": 73,
-              "total_count": 883027
+              "total_count": 883045
             },
             {
               "name": "TV",
               "count": 65,
-              "total_count": 1432024
+              "total_count": 1432040
             },
             {
               "name": "2026",
               "count": 43,
-              "total_count": 51039
+              "total_count": 51046
             },
             {
               "name": "雪女",
@@ -6947,12 +7031,12 @@
             {
               "name": "泡面番",
               "count": 36,
-              "total_count": 156396
+              "total_count": 156391
             },
             {
               "name": "日本",
               "count": 36,
-              "total_count": 307707
+              "total_count": 307711
             },
             {
               "name": "studioHōKIBOSHI",
@@ -9414,10 +9498,10 @@
       {
         "date": "2026-10-05",
         "level": 1,
-        "count": 3
+        "count": 4
       }
     ],
-    "total": 152
+    "total": 153
   },
   "characters": []
 }
