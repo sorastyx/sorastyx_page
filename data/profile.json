@@ -898,8 +898,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-05T13:51:00Z",
-      "pushed_at": "2026-10-05T13:50:56Z",
+      "updated_at": "2026-10-05T13:53:19Z",
+      "pushed_at": "2026-10-05T13:53:15Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
@@ -4207,7 +4207,7 @@
             {
               "name": "Galgame",
               "count": 425,
-              "total_count": 455593
+              "total_count": 455594
             },
             {
               "name": "哲学",
@@ -4242,7 +4242,7 @@
             {
               "name": "PC",
               "count": 63,
-              "total_count": 312720
+              "total_count": 312721
             },
             {
               "name": "2005",
@@ -4898,7 +4898,7 @@
             {
               "name": "Galgame",
               "count": 710,
-              "total_count": 455551
+              "total_count": 455593
             },
             {
               "name": "狗神煌",
@@ -4908,7 +4908,7 @@
             {
               "name": "SCA-自",
               "count": 384,
-              "total_count": 7676
+              "total_count": 7678
             },
             {
               "name": "治愈",
@@ -4928,7 +4928,7 @@
             {
               "name": "GAL",
               "count": 125,
-              "total_count": 47203
+              "total_count": 47206
             },
             {
               "name": "光源氏计划",
@@ -4946,7 +4946,7 @@
           "id": 41565,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 4718,
+          "collection_total": 4719,
           "rank": 955
         },
         "subject_id": 41565,
@@ -6833,12 +6833,12 @@
             {
               "name": "原创",
               "count": 448,
-              "total_count": 631385
+              "total_count": 631516
             },
             {
               "name": "2025年7月",
               "count": 340,
-              "total_count": 39088
+              "total_count": 39091
             },
             {
               "name": "柿本広大",
@@ -6848,17 +6848,17 @@
             {
               "name": "TV",
               "count": 271,
-              "total_count": 1431354
+              "total_count": 1432044
             },
             {
               "name": "音乐",
               "count": 231,
-              "total_count": 104955
+              "total_count": 104968
             },
             {
               "name": "2025",
               "count": 217,
-              "total_count": 74088
+              "total_count": 74206
             },
             {
               "name": "神椿",
@@ -6868,17 +6868,17 @@
             {
               "name": "日本",
               "count": 144,
-              "total_count": 307538
+              "total_count": 307711
             },
             {
               "name": "无法预测的命运之舞台",
               "count": 131,
-              "total_count": 11619
+              "total_count": 11627
             },
             {
               "name": "SMDE",
               "count": 115,
-              "total_count": 190
+              "total_count": 191
             }
           ],
           "score": 3,
@@ -6886,7 +6886,7 @@
           "id": 475032,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 3723,
+          "collection_total": 3724,
           "rank": 10332
         },
         "subject_id": 475032,
@@ -7006,22 +7006,22 @@
             {
               "name": "2026年10月",
               "count": 75,
-              "total_count": 5942
+              "total_count": 5944
             },
             {
               "name": "漫画改",
               "count": 73,
-              "total_count": 883045
+              "total_count": 883051
             },
             {
               "name": "TV",
               "count": 65,
-              "total_count": 1432040
+              "total_count": 1432046
             },
             {
               "name": "2026",
               "count": 43,
-              "total_count": 51046
+              "total_count": 51047
             },
             {
               "name": "雪女",
@@ -7138,7 +7138,7 @@
           "id": 428735,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 58045,
+          "collection_total": 58046,
           "rank": 281
         },
         "subject_id": 428735,
@@ -9498,10 +9498,10 @@
       {
         "date": "2026-10-05",
         "level": 1,
-        "count": 4
+        "count": 5
       }
     ],
-    "total": 153
+    "total": 154
   },
   "characters": []
 }
