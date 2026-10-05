@@ -3,6 +3,7 @@
   "sources": {
     "github": "2026-10-05",
     "repos": "2026-10-05",
+    "languages": "2026-10-05",
     "followers": "2026-10-05",
     "following": "2026-10-05",
     "starred": "2026-10-05",
@@ -148,14 +149,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1260845621,
@@ -264,14 +258,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "master",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "master"
     },
     {
       "id": 1208570031,
@@ -374,14 +361,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1136070555,
@@ -484,14 +464,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 10,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1241627552,
@@ -600,14 +573,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1168552921,
@@ -710,14 +676,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1208256042,
@@ -820,14 +779,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1405781333,
@@ -897,8 +849,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-05T13:32:37Z",
-      "pushed_at": "2026-10-05T13:32:32Z",
+      "updated_at": "2026-10-05T13:33:15Z",
+      "pushed_at": "2026-10-05T13:33:11Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
@@ -930,14 +882,7 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 1283651638,
@@ -1040,16 +985,18 @@
       "forks": 0,
       "open_issues": 0,
       "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     }
   ],
+  "languages": {
+    "HTML": 684196,
+    "SCSS": 53875,
+    "TypeScript": 35504,
+    "CSS": 13544,
+    "Dockerfile": 1346,
+    "Shell": 52,
+    "Python": 25536
+  },
   "followers": [
     {
       "login": "DCRlike",
@@ -1828,14 +1775,7 @@
       "forks": 6,
       "open_issues": 0,
       "watchers": 33,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     },
     {
       "id": 284698414,
@@ -1949,14 +1889,7 @@
       "forks": 302,
       "open_issues": 14,
       "watchers": 3108,
-      "default_branch": "master",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "master"
     },
     {
       "id": 1125925053,
@@ -2086,14 +2019,7 @@
       "forks": 14,
       "open_issues": 0,
       "watchers": 32,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
+      "default_branch": "main"
     }
   ],
   "games": {
@@ -2627,7 +2553,7 @@
             {
               "name": "Galgame",
               "count": 530,
-              "total_count": 455570
+              "total_count": 455592
             },
             {
               "name": "紫社",
@@ -2657,22 +2583,22 @@
             {
               "name": "R18",
               "count": 148,
-              "total_count": 41519
+              "total_count": 41523
             },
             {
               "name": "悬疑",
               "count": 138,
-              "total_count": 32752
+              "total_count": 32759
             },
             {
               "name": "PC",
               "count": 134,
-              "total_count": 312702
+              "total_count": 312716
             },
             {
               "name": "2025",
               "count": 96,
-              "total_count": 6700
+              "total_count": 6701
             }
           ],
           "score": 7.5,
@@ -3055,12 +2981,12 @@
             {
               "name": "Galgame",
               "count": 581,
-              "total_count": 455573
+              "total_count": 455590
             },
             {
               "name": "柚子社",
               "count": 567,
-              "total_count": 12837
+              "total_count": 12838
             },
             {
               "name": "废萌",
@@ -3085,7 +3011,7 @@
             {
               "name": "PC",
               "count": 147,
-              "total_count": 312708
+              "total_count": 312712
             },
             {
               "name": "夏和小",
@@ -3095,7 +3021,7 @@
             {
               "name": "ゆずソフト",
               "count": 91,
-              "total_count": 2954
+              "total_count": 2955
             },
             {
               "name": "Windows",
@@ -3108,7 +3034,7 @@
           "id": 561526,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 4020,
+          "collection_total": 4021,
           "rank": 4123
         },
         "subject_id": 561526,
@@ -4192,12 +4118,12 @@
             {
               "name": "田中ロミオ",
               "count": 621,
-              "total_count": 10295
+              "total_count": 10296
             },
             {
               "name": "Galgame",
               "count": 425,
-              "total_count": 455587
+              "total_count": 455592
             },
             {
               "name": "哲学",
@@ -4212,7 +4138,7 @@
             {
               "name": "科幻",
               "count": 109,
-              "total_count": 9671
+              "total_count": 9672
             },
             {
               "name": "杂学",
@@ -4230,14 +4156,14 @@
               "total_count": 77
             },
             {
+              "name": "PC",
+              "count": 63,
+              "total_count": 312717
+            },
+            {
               "name": "2005",
               "count": 63,
               "total_count": 2682
-            },
-            {
-              "name": "PC",
-              "count": 63,
-              "total_count": 312712
             }
           ],
           "score": 8.4,
@@ -4629,8 +4555,8 @@
             },
             {
               "name": "Galgame",
-              "count": 1794,
-              "total_count": 455587
+              "count": 1795,
+              "total_count": 455591
             },
             {
               "name": "eden",
@@ -4639,8 +4565,8 @@
             },
             {
               "name": "世界末日",
-              "count": 737,
-              "total_count": 867
+              "count": 738,
+              "total_count": 868
             },
             {
               "name": "诗音大爱",
@@ -4659,8 +4585,8 @@
             },
             {
               "name": "PC",
-              "count": 276,
-              "total_count": 312712
+              "count": 277,
+              "total_count": 312714
             },
             {
               "name": "AVG",
@@ -4678,7 +4604,7 @@
           "id": 2288,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 9933,
+          "collection_total": 9934,
           "rank": 604
         },
         "subject_id": 2288,
@@ -6906,52 +6832,52 @@
           "tags": [
             {
               "name": "异世界",
-              "count": 870,
-              "total_count": 269644
+              "count": 872,
+              "total_count": 269647
             },
             {
               "name": "2026年7月",
-              "count": 681,
-              "total_count": 28003
+              "count": 682,
+              "total_count": 28013
             },
             {
               "name": "奇幻",
-              "count": 610,
-              "total_count": 484847
+              "count": 611,
+              "total_count": 484855
             },
             {
               "name": "WHITEFOX",
-              "count": 600,
-              "total_count": 34154
+              "count": 601,
+              "total_count": 34156
             },
             {
               "name": "TV",
-              "count": 563,
-              "total_count": 1432020
+              "count": 564,
+              "total_count": 1432033
             },
             {
               "name": "战斗",
-              "count": 562,
-              "total_count": 482996
+              "count": 563,
+              "total_count": 483007
             },
             {
               "name": "轻小说改",
               "count": 500,
-              "total_count": 505252
+              "total_count": 505255
             },
             {
               "name": "冒险",
-              "count": 367,
-              "total_count": 56024
+              "count": 368,
+              "total_count": 56026
             },
             {
               "name": "小说改",
-              "count": 340,
-              "total_count": 165247
+              "count": 341,
+              "total_count": 165250
             },
             {
               "name": "轮回",
-              "count": 332,
+              "count": 333,
               "total_count": 17493
             }
           ],
@@ -6960,7 +6886,7 @@
           "id": 633836,
           "eps": 8,
           "volumes": 0,
-          "collection_total": 11608,
+          "collection_total": 11614,
           "rank": 1609
         },
         "subject_id": 633836,
@@ -6996,22 +6922,22 @@
             {
               "name": "2026年10月",
               "count": 75,
-              "total_count": 5932
+              "total_count": 5937
             },
             {
               "name": "漫画改",
               "count": 73,
-              "total_count": 883021
+              "total_count": 883027
             },
             {
               "name": "TV",
               "count": 65,
-              "total_count": 1432011
+              "total_count": 1432024
             },
             {
               "name": "2026",
               "count": 43,
-              "total_count": 51034
+              "total_count": 51039
             },
             {
               "name": "雪女",
@@ -7021,12 +6947,12 @@
             {
               "name": "泡面番",
               "count": 36,
-              "total_count": 156395
+              "total_count": 156396
             },
             {
               "name": "日本",
               "count": 36,
-              "total_count": 307698
+              "total_count": 307707
             },
             {
               "name": "studioHōKIBOSHI",
@@ -7044,7 +6970,7 @@
           "id": 656083,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 1482,
+          "collection_total": 1483,
           "rank": 7682
         },
         "subject_id": 656083,
@@ -7128,7 +7054,7 @@
           "id": 428735,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 58044,
+          "collection_total": 58045,
           "rank": 281
         },
         "subject_id": 428735,
@@ -7158,13 +7084,13 @@
           "tags": [
             {
               "name": "异世界",
-              "count": 1551,
-              "total_count": 269643
+              "count": 1552,
+              "total_count": 269647
             },
             {
               "name": "奇幻",
-              "count": 1161,
-              "total_count": 484842
+              "count": 1162,
+              "total_count": 484852
             },
             {
               "name": "2026年4月",
@@ -7173,33 +7099,33 @@
             },
             {
               "name": "战斗",
-              "count": 968,
-              "total_count": 482992
+              "count": 969,
+              "total_count": 483004
             },
             {
               "name": "WHITEFOX",
               "count": 939,
-              "total_count": 34154
+              "total_count": 34155
             },
             {
               "name": "TV",
               "count": 888,
-              "total_count": 1432013
+              "total_count": 1432025
             },
             {
               "name": "轻小说改",
               "count": 825,
-              "total_count": 505249
+              "total_count": 505252
             },
             {
               "name": "小说改",
               "count": 612,
-              "total_count": 165244
+              "total_count": 165247
             },
             {
               "name": "冒险",
               "count": 574,
-              "total_count": 56023
+              "total_count": 56024
             },
             {
               "name": "轮回",
@@ -7212,7 +7138,7 @@
           "id": 547888,
           "eps": 11,
           "volumes": 0,
-          "collection_total": 18035,
+          "collection_total": 18038,
           "rank": 486
         },
         "subject_id": 547888,
@@ -7505,12 +7431,12 @@
             {
               "name": "催泪",
               "count": 2790,
-              "total_count": 61094
+              "total_count": 61096
             },
             {
               "name": "原创",
               "count": 2664,
-              "total_count": 631502
+              "total_count": 631513
             },
             {
               "name": "动画工房",
@@ -7520,7 +7446,7 @@
             {
               "name": "恋爱",
               "count": 2507,
-              "total_count": 576755
+              "total_count": 576779
             },
             {
               "name": "2015年4月",
@@ -7530,12 +7456,12 @@
             {
               "name": "科幻",
               "count": 1597,
-              "total_count": 257808
+              "total_count": 257811
             },
             {
               "name": "TV",
               "count": 1325,
-              "total_count": 1431979
+              "total_count": 1432031
             },
             {
               "name": "可塑性记忆",
@@ -7545,7 +7471,7 @@
             {
               "name": "2015",
               "count": 828,
-              "total_count": 69958
+              "total_count": 69962
             },
             {
               "name": "林直孝",
@@ -7558,7 +7484,7 @@
           "id": 114685,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 29451,
+          "collection_total": 29452,
           "rank": 2534
         },
         "subject_id": 114685,
@@ -9488,10 +9414,10 @@
       {
         "date": "2026-10-05",
         "level": 1,
-        "count": 2
+        "count": 3
       }
     ],
-    "total": 151
+    "total": 152
   },
   "characters": []
 }

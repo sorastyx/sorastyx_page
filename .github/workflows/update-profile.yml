@@ -39,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
         with:
           card: pin
-          options: username=sorastyx&repo=JLU-&bg_color=faf9f3&title_color=253d32&text_color=758174&icon_color=ad8952&border_color=e1dfd2&border_radius=18&show_owner=false
+          options: username=sorastyx&repo=JLU-&bg_color=ffffff&title_color=0969da&text_color=656d76&icon_color=656d76&border_color=d8dee4&border_radius=6&show_owner=false
           path: assets/generated/project-0.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -47,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
         with:
           card: pin
-          options: username=sorastyx&repo=My-Transformer&bg_color=faf9f3&title_color=253d32&text_color=758174&icon_color=ad8952&border_color=e1dfd2&border_radius=18&show_owner=false
+          options: username=sorastyx&repo=My-Transformer&bg_color=ffffff&title_color=0969da&text_color=656d76&icon_color=656d76&border_color=d8dee4&border_radius=6&show_owner=false
           path: assets/generated/project-1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true

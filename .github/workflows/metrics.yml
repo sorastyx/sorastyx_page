@@ -41,7 +41,7 @@ jobs:
           plugin_people_types: followers, following
           plugin_people_limit: 16
           extras_css: |
-            :root { --color-text: #253d32; --color-text-primary: #526b4b; }
+            :root { --color-text: #656d76; --color-text-primary: #0969da; }
       - name: Explain optional setup
         if: env.METRICS_TOKEN == ''
         run: echo 'Detailed Metrics is optional. Add METRICS_TOKEN in repository secrets to enable it. Public cards remain available.'
