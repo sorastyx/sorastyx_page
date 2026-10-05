@@ -14,6 +14,6 @@ for (const name of imageNames) {
   if (!meta.width || !meta.height) throw Error(`Invalid image ${name}`);
 }
 const prefix = `https://raw.githubusercontent.com/${config.repository}/main/`;
-for (const match of readme.matchAll(/src="([^"]+)"/g)) if (match[1].startsWith(prefix)) await fs.access(match[1].slice(prefix.length));
+for (const match of readme.matchAll(/src="([^"]+)"/g)) if (match[1].startsWith(prefix)) await fs.access(match[1].slice(prefix.length).split('?')[0]);
 if (/ghp_|github_pat_|Bearer\s/.test(readme)) throw Error('Credential-like text in README');
 console.log('Verified favorite identities, contribution calendar, image decoding, and all repository image links.');

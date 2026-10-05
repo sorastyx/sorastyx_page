@@ -174,8 +174,9 @@ export async function renderProfile({ config, snapshot: d, imageData, warnings, 
   await card('characters', characters, 490, d.characters.length ? 68 + Math.ceil(d.characters.length / 6) * 117 : 104);
 
   const raw = `https://raw.githubusercontent.com/${config.repository}/main`;
-  const image = (name, alt) => `<p><img src="${raw}/${out}/${name}.png" width="100%" alt="${alt}"></p>`;
-  const pin = async i => await fs.access(`${out}/project-${i}.svg`).then(() => `${raw}/${out}/project-${i}.svg`).catch(() => `${raw}/${out}/project-fallback-${i}.png`);
+  const version = `?v=${config.assetVersion || 1}-${d.fetchedAt}`;
+  const image = (name, alt) => `<p><img src="${raw}/${out}/${name}.png${version}" width="100%" alt="${alt}"></p>`;
+  const pin = async i => await fs.access(`${out}/project-${i}.svg`).then(() => `${raw}/${out}/project-${i}.svg${version}`).catch(() => `${raw}/${out}/project-fallback-${i}.png${version}`);
   const link = (label, url) => `<a href="${escape(url)}">${escape(label)}</a>`;
   const metrics = await fs.access(`${out}/metrics.svg`).then(() => `<details><summary>详细统计</summary><p><img src="${raw}/${out}/metrics.svg" width="100%" alt="详细 GitHub 统计"></p></details>`).catch(() => '');
   const projectImages = (await Promise.all(config.projects.map(async (name, i) => `<p><a href="https://github.com/${config.github}/${escape(name)}"><img src="${await pin(i)}" width="100%" alt="${escape(name)}"></a></p>`))).join('\n');
