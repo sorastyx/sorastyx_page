@@ -151,11 +151,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -267,11 +267,11 @@
       "watchers": 0,
       "default_branch": "master",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -377,11 +377,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -487,11 +487,11 @@
       "watchers": 10,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -603,11 +603,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -713,11 +713,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -788,8 +788,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx/deployments",
       "created_at": "2026-10-05T14:16:15Z",
-      "updated_at": "2026-10-05T14:19:07Z",
-      "pushed_at": "2026-10-05T14:19:02Z",
+      "updated_at": "2026-10-06T01:15:09Z",
+      "pushed_at": "2026-10-06T01:15:05Z",
       "git_url": "git://github.com/sorastyx/sorastyx.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx.git",
       "clone_url": "https://github.com/sorastyx/sorastyx.git",
@@ -823,11 +823,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -933,11 +933,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -1008,8 +1008,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-05T14:17:39Z",
-      "pushed_at": "2026-10-05T14:17:36Z",
+      "updated_at": "2026-10-06T01:14:56Z",
+      "pushed_at": "2026-10-06T01:14:52Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
@@ -1043,11 +1043,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -1153,11 +1153,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     }
   ],
@@ -1954,7 +1954,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": true
+        "pull": false
       }
     },
     {
@@ -2075,7 +2075,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": true
+        "pull": false
       }
     },
     {
@@ -2212,7 +2212,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": true
+        "pull": false
       }
     }
   ],
@@ -2292,7 +2292,7 @@
           "id": 39066,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 7990,
+          "collection_total": 7991,
           "rank": 100
         },
         "subject_id": 39066,
@@ -3056,7 +3056,7 @@
           "id": 488392,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 7989,
+          "collection_total": 7990,
           "rank": 2362
         },
         "subject_id": 488392,
@@ -3142,7 +3142,7 @@
           "id": 129820,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 5847,
+          "collection_total": 5848,
           "rank": 493
         },
         "subject_id": 129820,
@@ -3318,7 +3318,7 @@
           "id": 1079,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 3632,
+          "collection_total": 3633,
           "rank": 347
         },
         "subject_id": 1079,
@@ -3491,7 +3491,7 @@
           "id": 3154,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 15856,
+          "collection_total": 15857,
           "rank": 11
         },
         "subject_id": 3154,
@@ -3668,7 +3668,7 @@
           "id": 200763,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 11051,
+          "collection_total": 11052,
           "rank": 202
         },
         "subject_id": 200763,
@@ -4798,7 +4798,7 @@
           "id": 2288,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 9934,
+          "collection_total": 9935,
           "rank": 605
         },
         "subject_id": 2288,
@@ -4886,7 +4886,7 @@
           "id": 448682,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 2859,
+          "collection_total": 2860,
           "rank": 9386
         },
         "subject_id": 448682,
@@ -5144,7 +5144,7 @@
           "id": 1126,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 17137,
+          "collection_total": 17138,
           "rank": 6
         },
         "subject_id": 1126,
@@ -5842,7 +5842,7 @@
           "id": 13,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 12932,
+          "collection_total": 12933,
           "rank": 14
         },
         "subject_id": 13,
@@ -6770,7 +6770,7 @@
             {
               "name": "Galgame",
               "count": 3282,
-              "total_count": 455658
+              "total_count": 455667
             },
             {
               "name": "电波",
@@ -6785,7 +6785,7 @@
             {
               "name": "狂气",
               "count": 1722,
-              "total_count": 7462
+              "total_count": 7463
             },
             {
               "name": "SCA-自",
@@ -6795,7 +6795,7 @@
             {
               "name": "神作",
               "count": 1240,
-              "total_count": 19485
+              "total_count": 19487
             },
             {
               "name": "ケロＱ",
@@ -6823,7 +6823,7 @@
           "id": 4639,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 16120,
+          "collection_total": 16119,
           "rank": 37
         },
         "subject_id": 4639,
@@ -7279,12 +7279,12 @@
             {
               "name": "异世界",
               "count": 1555,
-              "total_count": 269776
+              "total_count": 269781
             },
             {
               "name": "奇幻",
               "count": 1162,
-              "total_count": 485026
+              "total_count": 485031
             },
             {
               "name": "2026年4月",
@@ -7294,7 +7294,7 @@
             {
               "name": "战斗",
               "count": 969,
-              "total_count": 483192
+              "total_count": 483196
             },
             {
               "name": "WHITEFOX",
@@ -7304,22 +7304,22 @@
             {
               "name": "TV",
               "count": 887,
-              "total_count": 1432289
+              "total_count": 1432300
             },
             {
               "name": "轻小说改",
               "count": 825,
-              "total_count": 505398
+              "total_count": 505405
             },
             {
               "name": "小说改",
               "count": 612,
-              "total_count": 165337
+              "total_count": 165339
             },
             {
               "name": "冒险",
               "count": 574,
-              "total_count": 56053
+              "total_count": 56035
             },
             {
               "name": "轮回",
@@ -7332,7 +7332,7 @@
           "id": 547888,
           "eps": 11,
           "volumes": 0,
-          "collection_total": 18059,
+          "collection_total": 18058,
           "rank": 486
         },
         "subject_id": 547888,
@@ -7678,7 +7678,7 @@
           "id": 114685,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 29460,
+          "collection_total": 29461,
           "rank": 2535
         },
         "subject_id": 114685,
@@ -9612,11 +9612,11 @@
       },
       {
         "date": "2026-10-06",
-        "level": 0,
-        "count": 0
+        "level": 1,
+        "count": 2
       }
     ],
-    "total": 158
+    "total": 160
   },
   "characters": []
 }
