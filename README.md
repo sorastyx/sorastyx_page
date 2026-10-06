@@ -59,7 +59,7 @@
 <tr><td width="64"><a href="https://bangumi.tv/subject/194804"><img src="https://raw.githubusercontent.com/sorastyx/sorastyx_page/main/assets/source/media/b9926f98ede8fcbea3e7.png?v=4-2026-10-06" width="48" alt="银色事件"></a></td><td><a href="https://bangumi.tv/subject/194804">银色事件</a><br><sub>1999</sub></td></tr>
 <tr><td width="64"><a href="https://bangumi.tv/subject/283701"><img src="https://raw.githubusercontent.com/sorastyx/sorastyx_page/main/assets/source/media/966b5857e9735f913990.png?v=4-2026-10-06" width="48" alt="紫陽花しようか！"></a></td><td><a href="https://bangumi.tv/subject/283701">紫陽花しようか！</a><br><sub>2007</sub></td></tr>
 <tr><td width="64"><a href="https://bangumi.tv/subject/488392"><img src="https://raw.githubusercontent.com/sorastyx/sorastyx_page/main/assets/source/media/c6ea532f34a621fac9d2.png?v=4-2026-10-06" width="48" alt="魔法少女的魔女审判"></a></td><td><a href="https://bangumi.tv/subject/488392">魔法少女的魔女审判</a><br><sub>2025</sub></td></tr>
-<tr><td width="64"><a href="https://bangumi.tv/subject/38979"><img src="https://raw.githubusercontent.com/sorastyx/sorastyx_page/main/assets/source/media/0e9dc80e8bac38f7a580.png?v=4-2026-10-06" width="48" alt="Ever17"></a></td><td><a href="https://bangumi.tv/subject/38979">Ever17</a><br><sub>2011</sub></td></tr>
+<tr><td width="64"><a href="https://bangumi.tv/subject/200763"><img src="https://raw.githubusercontent.com/sorastyx/sorastyx_page/main/assets/source/media/05e5abef169ee9ab898b.png?v=4-2026-10-06" width="48" alt="夏日口袋"></a></td><td><a href="https://bangumi.tv/subject/200763">夏日口袋</a><br><sub>2018</sub></td></tr>
 </table>
 <h3>想看</h3>
 <table>

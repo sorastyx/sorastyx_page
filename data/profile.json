@@ -151,11 +151,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -267,11 +267,11 @@
       "watchers": 0,
       "default_branch": "master",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -377,11 +377,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -487,11 +487,11 @@
       "watchers": 10,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -603,11 +603,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -713,11 +713,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -788,8 +788,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx/deployments",
       "created_at": "2026-10-05T14:16:15Z",
-      "updated_at": "2026-10-06T01:15:09Z",
-      "pushed_at": "2026-10-06T01:15:05Z",
+      "updated_at": "2026-10-06T01:16:19Z",
+      "pushed_at": "2026-10-06T01:16:14Z",
       "git_url": "git://github.com/sorastyx/sorastyx.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx.git",
       "clone_url": "https://github.com/sorastyx/sorastyx.git",
@@ -823,11 +823,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -933,11 +933,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -1008,8 +1008,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-06T01:14:56Z",
-      "pushed_at": "2026-10-06T01:14:52Z",
+      "updated_at": "2026-10-06T01:15:43Z",
+      "pushed_at": "2026-10-06T01:15:39Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
@@ -1043,11 +1043,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     },
     {
@@ -1153,11 +1153,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
       }
     }
   ],
@@ -1954,7 +1954,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": false
+        "pull": true
       }
     },
     {
@@ -2075,7 +2075,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": false
+        "pull": true
       }
     },
     {
@@ -2212,7 +2212,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": false
+        "pull": true
       }
     }
   ],
@@ -6464,7 +6464,7 @@
           "id": 12280,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 14311,
+          "collection_total": 14312,
           "rank": 153
         },
         "subject_id": 12280,
@@ -9613,10 +9613,10 @@
       {
         "date": "2026-10-06",
         "level": 1,
-        "count": 2
+        "count": 3
       }
     ],
-    "total": 160
+    "total": 161
   },
   "characters": []
 }

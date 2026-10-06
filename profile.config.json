@@ -58,5 +58,8 @@
   "completedGameLimit": 6,
   "completedAnimeLimit": 5,
   "plannedGameLimit": 6,
-  "plannedAnimeLimit": 4
+  "plannedAnimeLimit": 4,
+  "detailExcludedSubjects": [
+    38979
+  ]
 }

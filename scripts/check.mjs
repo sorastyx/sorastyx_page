@@ -18,7 +18,7 @@ const prefix = `https://raw.githubusercontent.com/${config.repository}/main/`;
 for (const match of readme.matchAll(/src="([^"]+)"/g)) if (match[1].startsWith(prefix)) await fs.access(match[1].slice(prefix.length).split('?')[0]);
 if (/ghp_|github_pat_|Bearer\s/.test(readme)) throw Error('Credential-like text in README');
 const details = collectionDetails(config, data);
-const favoriteIds = new Set(config.favorites.map(f => f.id));
+const favoriteIds = new Set([...config.favorites.map(f => f.id), ...(config.detailExcludedSubjects || [])]);
 const ids = Object.values(details).flat().map(item => item.subject_id);
 if (ids.some(id => favoriteIds.has(id)) || new Set(ids).size !== ids.length) throw Error('Detail lists repeat a favorite or another detail entry');
 for (const [key, entries] of Object.entries(details)) {
