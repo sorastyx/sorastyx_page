@@ -2,6 +2,8 @@ import fs from 'node:fs/promises';
 import sharp from 'sharp';
 import MarkdownIt from 'markdown-it';
 import { composeReadme } from './readme.mjs';
+import { collectionDetails } from './collections.mjs';
+import crypto from 'node:crypto';
 
 const C = { text: '#1f2328', muted: '#656d76', blue: '#0969da', line: '#d8dee4' };
 const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;' })[c]);
@@ -215,9 +217,19 @@ export async function renderProfile({ config, snapshot: d, imageData, warnings, 
   const link = (label, url) => `<a href="${escape(url)}">${escape(label)}</a>`;
   const metrics = await fs.access(`${out}/metrics.svg`).then(() => `<details><summary>详细统计</summary><p><img src="${raw}/${out}/metrics.svg" width="100%" alt="详细 GitHub 统计"></p></details>`).catch(() => '');
   const projectImages = (await Promise.all(config.projects.map(async (name, i) => `<p><a href="https://github.com/${config.github}/${escape(name)}"><img src="${await pin(i)}" width="100%" alt="${escape(name)}"></a></p>`))).join('\n');
-  const readme = composeReadme({ config, snapshot: d, image, link, projectImages, metrics });
+  const collections = collectionDetails(config, d);
+  const coverPaths = new Map();
+  for (const entry of Object.values(collections).flat()) {
+    const url = entry.subject.images?.large || entry.subject.images?.common;
+    if (await imageData(url)) {
+      const hash = crypto.createHash('sha256').update(url.startsWith('//') ? `https:${url}` : url).digest('hex').slice(0, 20);
+      coverPaths.set(entry.subject_id, `${raw}/assets/source/media/${hash}.png${version}`);
+    }
+  }
+  const cover = entry => coverPaths.has(entry.subject_id) ? `<a href="https://bangumi.tv/subject/${entry.subject_id}"><img src="${coverPaths.get(entry.subject_id)}" width="48" alt="${escape(entry.subject.name_cn || entry.subject.name)}"></a>` : '';
+  const readme = composeReadme({ config, snapshot: d, image, link, projectImages, metrics, collections, cover });
   await fs.writeFile('README.md', readme);
   const preview = new MarkdownIt({ html: true }).render(readme).replaceAll(`${raw}/`, './');
   await fs.writeFile('preview.html', `<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>sorastyx · README</title><style>body{margin:0;background:#fff;color:#1f2328;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif}.bar{padding:16px 30px;background:#f6f8fa;border-bottom:1px solid #d1d9e0;font-size:14px}.bar b{color:#0969da}.readme{max-width:960px;margin:24px auto;padding:28px;border:1px solid #d1d9e0;border-radius:6px;line-height:1.5}.readme img{max-width:100%;height:auto;vertical-align:middle}.readme p{margin:12px 0}.readme h3{font-size:19px;margin:16px 0 10px;padding-bottom:6px;border-bottom:1px solid #d1d9e0}table{border-collapse:collapse;width:100%;table-layout:fixed}td{padding:10px;border:1px solid #d1d9e0;vertical-align:top}a{color:#0969da;text-decoration:none}a:hover{text-decoration:underline}summary{cursor:pointer}@media(max-width:600px){.readme{margin:6px;padding:10px}.bar{padding:12px}td{padding:4px}}</style><div class="bar"><b>${escape(config.repository)}</b> · README.md</div><main class="readme">${preview}</main></html>`);
-  await fs.writeFile('data/build-report.json', JSON.stringify({ date: d.fetchedAt, sources: d.sources, favorites: favorites.length, playing: playing.length, watching: watching.length, characters: d.characters.length, warnings }, null, 2) + '\n');
+  await fs.writeFile('data/build-report.json', JSON.stringify({ date: d.fetchedAt, sources: d.sources, favorites: favorites.length, playing: playing.length, watching: watching.length, characters: d.characters.length, collectionRecords: Object.fromEntries(Object.entries(collections).map(([key, entries]) => [key, entries.length])), warnings }, null, 2) + '\n');
 }

@@ -1,24 +1,62 @@
 {
   "github": "sorastyx",
   "repository": "sorastyx/sorastyx_page",
-  "assetVersion": 3,
-  "languageExcludedRepositories": ["sorastyx/sorastyx_page", "sorastyx/sorastyx"],
+  "assetVersion": 4,
+  "languageExcludedRepositories": [
+    "sorastyx/sorastyx_page",
+    "sorastyx/sorastyx"
+  ],
   "bangumi": "722867",
   "displayName": "花鳥風月",
   "signature": "追求视觉小说美的极限。",
-  "projects": ["JLU-", "My-Transformer"],
+  "projects": [
+    "JLU-",
+    "My-Transformer"
+  ],
   "favorites": [
-    { "id": 22423, "title": "樱之诗", "subtitle": "サクラノ詩" },
-    { "id": 220921, "title": "樱之刻", "subtitle": "サクラノ刻" },
-    { "id": 1079, "title": "I/O", "subtitle": "" },
-    { "id": 1126, "title": "Ever17", "subtitle": "the out of infinity" },
-    { "id": 4639, "title": "素晴日", "subtitle": "素晴らしき日々" },
-    { "id": 3154, "title": "命运石之门", "subtitle": "STEINS;GATE" },
-    { "id": 5395, "title": "Forest", "subtitle": "フォレスト" }
+    {
+      "id": 22423,
+      "title": "樱之诗",
+      "subtitle": "サクラノ詩"
+    },
+    {
+      "id": 220921,
+      "title": "樱之刻",
+      "subtitle": "サクラノ刻"
+    },
+    {
+      "id": 1079,
+      "title": "I/O",
+      "subtitle": ""
+    },
+    {
+      "id": 1126,
+      "title": "Ever17",
+      "subtitle": "the out of infinity"
+    },
+    {
+      "id": 4639,
+      "title": "素晴日",
+      "subtitle": "素晴らしき日々"
+    },
+    {
+      "id": 3154,
+      "title": "命运石之门",
+      "subtitle": "STEINS;GATE"
+    },
+    {
+      "id": 5395,
+      "title": "Forest",
+      "subtitle": "フォレスト"
+    }
   ],
   "playingLimit": 6,
   "watchingLimit": 4,
   "peopleLimit": 16,
   "characterLimit": 12,
-  "counterTheme": "miku"
+  "counterTheme": "miku",
+  "completedGameLimit": 6,
+  "completedAnimeLimit": 5,
+  "plannedGameLimit": 6,
+  "plannedAnimeLimit": 4
 }
