@@ -1,4 +1,5 @@
 export function composeReadme({ config, snapshot, image, link, projectImages, metrics, collections, cover }) {
+  const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
   const github = `https://github.com/${config.github}`;
   const bangumi = `https://bangumi.tv/user/${config.bangumi}`;
   const totals = items => [1, 2, 3, 4, 5].map(type => items.filter(item => item.type === type).length);
@@ -38,6 +39,7 @@ ${right}
 </tr>
 </table>`;
   return `${image('header', `${config.github} · ${config.displayName} · Forest`)}
+<p><strong>${escape(config.github)}</strong> · ${escape(config.displayName)} · ${escape(config.signature)}</p>
 <p>${link('GitHub', github)} · ${link('Bangumi', bangumi)}</p>
 
 ${table(

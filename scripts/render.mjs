@@ -53,11 +53,7 @@ export async function renderProfile({ config, snapshot: d, imageData, warnings, 
   async function card(name, body, width, height) {
     await sharp(Buffer.from(svg(body, width, height))).png().toFile(`${out}/${name}.png`);
   }
-  const art = `data:image/png;base64,${(await fs.readFile('assets/source/forest-with-title.png')).toString('base64')}`;
-  await card('header', `<image href="${art}" x="0" y="0" width="146" height="245" preserveAspectRatio="xMidYMid meet"/>`
-    + t(184, 76, config.github, 34, C.text, 'font-weight="600"')
-    + t(184, 115, config.displayName, 21, C.muted)
-    + t(184, 164, config.signature, 22), 1000, 250);
+  await fs.copyFile('assets/source/forest-banner-wide.png', `${out}/header.png`);
 
   const owned = d.repos.filter(repo => !repo.fork);
   const s = streaks(d.calendar.days);

@@ -7,6 +7,7 @@
 - 官方图地址：https://www.liar.co.jp/ev/denkigai2018s/images/new-item_minitape_forest.jpg
 - `forest-official-original.jpg` 为上述官方周边展示图，477 × 798；不是高清母图。
 - `forest-with-title.png` 为用户授权的 AI 清晰度增强及标题适配版本，970 × 1622。标题参照用户提供的 Forest 游戏封面。部分细节经 AI 重建，不宣称为官方原始高清素材；保留原版权署名。
+- `forest-banner-wide.png` 为用户授权的横版适配，2098 × 749。使用内置图像生成工具延展两侧森林、天空与城镇背景，保留中央群像、Forest 标题、钟面和塔身的竖向比例。新增背景及重建细节不是官方 CG，原竖版保留。扩图提示词见 `FOREST-BANNER-PROMPT.md`。
 
 ## 数据与封面
 

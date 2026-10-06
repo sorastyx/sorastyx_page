@@ -10,7 +10,7 @@ on:
       - 'scripts/**'
       - 'profile.config.json'
       - 'package*.json'
-      - 'assets/source/forest-with-title.png'
+      - 'assets/source/forest*.png'
       - '.github/workflows/update-profile.yml'
 
 permissions:

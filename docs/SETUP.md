@@ -10,7 +10,8 @@
 
 - `profile.config.json`：昵称、签名、作品清单、展示数量与项目。
 - `scripts/render.mjs`：卡片样式；`scripts/readme.mjs`：栏目与折叠排版；`scripts/build.mjs`：公开数据读取。
-- `assets/source/forest-with-title.png`：已确认的 Forest 标题适配图。
+- `assets/source/forest-banner-wide.png`：约 2.8:1 的 Forest 通栏横幅；原竖版标题图保留在 `forest-with-title.png`。
+- 横幅按原始比例显示，不拉伸或裁切。名字与签名放在横幅下方，用 GitHub 原生文字显示。
 - README 由生成器输出；长期修改应修改生成器或配置，避免下次更新覆盖。
 - 横幅已按用户要求移除学校、研究方向、兴趣标签两行。
 - 按用户最新意见删去装饰、双语抒情标题、打字欢迎语和结束语。学校与研究方向不出现在横幅中；签名为用户提供的原文。
