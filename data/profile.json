@@ -151,11 +151,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -267,11 +267,11 @@
       "watchers": 0,
       "default_branch": "master",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -377,11 +377,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -487,11 +487,11 @@
       "watchers": 10,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -603,11 +603,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -713,11 +713,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -788,8 +788,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx/deployments",
       "created_at": "2026-10-05T14:16:15Z",
-      "updated_at": "2026-10-06T01:16:19Z",
-      "pushed_at": "2026-10-06T01:16:14Z",
+      "updated_at": "2026-10-06T01:17:04Z",
+      "pushed_at": "2026-10-06T01:16:59Z",
       "git_url": "git://github.com/sorastyx/sorastyx.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx.git",
       "clone_url": "https://github.com/sorastyx/sorastyx.git",
@@ -823,11 +823,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -933,11 +933,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -1008,8 +1008,8 @@
       "releases_url": "https://api.github.com/repos/sorastyx/sorastyx_page/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
-      "updated_at": "2026-10-06T01:15:43Z",
-      "pushed_at": "2026-10-06T01:15:39Z",
+      "updated_at": "2026-10-06T01:17:27Z",
+      "pushed_at": "2026-10-06T01:17:23Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
@@ -1043,11 +1043,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     },
     {
@@ -1153,11 +1153,11 @@
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
       }
     }
   ],
@@ -1954,7 +1954,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": true
+        "pull": false
       }
     },
     {
@@ -2075,7 +2075,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": true
+        "pull": false
       }
     },
     {
@@ -2212,7 +2212,7 @@
         "maintain": false,
         "push": false,
         "triage": false,
-        "pull": true
+        "pull": false
       }
     }
   ],
@@ -7026,38 +7026,38 @@
           "tags": [
             {
               "name": "异世界",
-              "count": 881,
-              "total_count": 269776
+              "count": 882,
+              "total_count": 269782
             },
             {
               "name": "2026年7月",
-              "count": 687,
-              "total_count": 28118
+              "count": 688,
+              "total_count": 28123
             },
             {
               "name": "奇幻",
               "count": 618,
-              "total_count": 484934
+              "total_count": 485031
             },
             {
               "name": "WHITEFOX",
-              "count": 604,
-              "total_count": 34164
+              "count": 605,
+              "total_count": 34165
             },
             {
               "name": "TV",
               "count": 568,
-              "total_count": 1432295
+              "total_count": 1432301
             },
             {
               "name": "战斗",
               "count": 567,
-              "total_count": 483195
+              "total_count": 483196
             },
             {
               "name": "轻小说改",
               "count": 506,
-              "total_count": 505399
+              "total_count": 505405
             },
             {
               "name": "冒险",
@@ -9613,10 +9613,10 @@
       {
         "date": "2026-10-06",
         "level": 1,
-        "count": 3
+        "count": 5
       }
     ],
-    "total": 161
+    "total": 163
   },
   "characters": []
 }
