@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "sources": {
-    "github": "2026-11-11",
-    "repos": "2026-11-11",
-    "languages": "2026-11-11",
-    "followers": "2026-11-11",
-    "following": "2026-11-11",
-    "starred": "2026-11-11",
-    "games": "2026-11-11",
-    "anime": "2026-11-11",
-    "calendar": "2026-11-11",
-    "characters": "2026-11-10"
+    "github": "2026-11-12",
+    "repos": "2026-11-12",
+    "languages": "2026-11-12",
+    "followers": "2026-11-12",
+    "following": "2026-11-12",
+    "starred": "2026-11-12",
+    "games": "2026-11-12",
+    "anime": "2026-11-12",
+    "calendar": "2026-11-12",
+    "characters": "2026-11-12"
   },
   "favorites": 7,
   "playing": 6,
@@ -22,7 +22,5 @@
     "wantPlay": 6,
     "wantWatch": 1
   },
-  "warnings": [
-    "characters: cached snapshot retained; HTTP 502: https://bgm.tv/user/722867/mono/character"
-  ]
+  "warnings": []
 }
