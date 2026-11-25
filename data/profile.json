@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-11-24",
+  "fetchedAt": "2026-11-25",
   "sources": {
-    "github": "2026-11-24",
-    "repos": "2026-11-24",
-    "languages": "2026-11-24",
-    "followers": "2026-11-24",
-    "following": "2026-11-24",
-    "starred": "2026-11-24",
-    "games": "2026-11-24",
-    "anime": "2026-11-24",
-    "calendar": "2026-11-24",
-    "characters": "2026-11-24"
+    "github": "2026-11-25",
+    "repos": "2026-11-25",
+    "languages": "2026-11-25",
+    "followers": "2026-11-25",
+    "following": "2026-11-25",
+    "starred": "2026-11-25",
+    "games": "2026-11-25",
+    "anime": "2026-11-25",
+    "calendar": "2026-11-25",
+    "characters": "2026-11-25"
   },
   "github": {
     "login": "sorastyx",
@@ -452,7 +452,7 @@
       "releases_url": "https://api.github.com/repos/sorastyx/JLU-/releases{/id}",
       "deployments_url": "https://api.github.com/repos/sorastyx/JLU-/deployments",
       "created_at": "2026-01-17T02:34:51Z",
-      "updated_at": "2026-10-29T13:14:34Z",
+      "updated_at": "2026-11-24T14:57:05Z",
       "pushed_at": "2026-11-15T07:16:09Z",
       "git_url": "git://github.com/sorastyx/JLU-.git",
       "ssh_url": "git@github.com:sorastyx/JLU-.git",
@@ -460,8 +460,8 @@
       "svn_url": "https://github.com/sorastyx/JLU-",
       "homepage": null,
       "size": 2376,
-      "stargazers_count": 11,
-      "watchers_count": 11,
+      "stargazers_count": 12,
+      "watchers_count": 12,
       "language": null,
       "has_issues": true,
       "has_projects": true,
@@ -484,7 +484,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 11,
+      "watchers": 12,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -789,13 +789,13 @@
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx/deployments",
       "created_at": "2026-10-05T14:16:15Z",
       "updated_at": "2026-11-12T03:56:31Z",
-      "pushed_at": "2026-11-23T02:42:45Z",
+      "pushed_at": "2026-11-24T05:58:38Z",
       "git_url": "git://github.com/sorastyx/sorastyx.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx.git",
       "clone_url": "https://github.com/sorastyx/sorastyx.git",
       "svn_url": "https://github.com/sorastyx/sorastyx",
       "homepage": null,
-      "size": 58237,
+      "size": 58795,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -1009,13 +1009,13 @@
       "deployments_url": "https://api.github.com/repos/sorastyx/sorastyx_page/deployments",
       "created_at": "2026-10-05T13:09:17Z",
       "updated_at": "2026-11-12T03:56:25Z",
-      "pushed_at": "2026-11-23T02:40:56Z",
+      "pushed_at": "2026-11-24T05:58:01Z",
       "git_url": "git://github.com/sorastyx/sorastyx_page.git",
       "ssh_url": "git@github.com:sorastyx/sorastyx_page.git",
       "clone_url": "https://github.com/sorastyx/sorastyx_page.git",
       "svn_url": "https://github.com/sorastyx/sorastyx_page",
       "homepage": null,
-      "size": 61612,
+      "size": 62171,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -1848,6 +1848,272 @@
   ],
   "starred": [
     {
+      "id": 1456105425,
+      "node_id": "R_kgDOVspn0Q",
+      "name": "snug",
+      "full_name": "zephyr4123/snug",
+      "private": false,
+      "owner": {
+        "login": "zephyr4123",
+        "id": 150259936,
+        "node_id": "U_kgDOCPTI4A",
+        "avatar_url": "https://avatars.githubusercontent.com/u/150259936?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/zephyr4123",
+        "html_url": "https://github.com/zephyr4123",
+        "followers_url": "https://api.github.com/users/zephyr4123/followers",
+        "following_url": "https://api.github.com/users/zephyr4123/following{/other_user}",
+        "gists_url": "https://api.github.com/users/zephyr4123/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/zephyr4123/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/zephyr4123/subscriptions",
+        "organizations_url": "https://api.github.com/users/zephyr4123/orgs",
+        "repos_url": "https://api.github.com/users/zephyr4123/repos",
+        "events_url": "https://api.github.com/users/zephyr4123/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/zephyr4123/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/zephyr4123/snug",
+      "description": "让远程 Mac 在任意设备上获得原生级体验。支持 UU远程 与 CrossDesk 的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make your remote Mac native on any device: display and touch enhancements for UU Remote and CrossDesk, with a dedicated screen for every phone, tablet and computer, native touch gestures and an App Library.",
+      "fork": false,
+      "url": "https://api.github.com/repos/zephyr4123/snug",
+      "forks_url": "https://api.github.com/repos/zephyr4123/snug/forks",
+      "keys_url": "https://api.github.com/repos/zephyr4123/snug/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/zephyr4123/snug/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/zephyr4123/snug/teams",
+      "hooks_url": "https://api.github.com/repos/zephyr4123/snug/hooks",
+      "issue_events_url": "https://api.github.com/repos/zephyr4123/snug/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/zephyr4123/snug/events",
+      "assignees_url": "https://api.github.com/repos/zephyr4123/snug/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/zephyr4123/snug/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/zephyr4123/snug/tags",
+      "blobs_url": "https://api.github.com/repos/zephyr4123/snug/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/zephyr4123/snug/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/zephyr4123/snug/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/zephyr4123/snug/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/zephyr4123/snug/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/zephyr4123/snug/languages",
+      "stargazers_url": "https://api.github.com/repos/zephyr4123/snug/stargazers",
+      "contributors_url": "https://api.github.com/repos/zephyr4123/snug/contributors",
+      "subscribers_url": "https://api.github.com/repos/zephyr4123/snug/subscribers",
+      "subscription_url": "https://api.github.com/repos/zephyr4123/snug/subscription",
+      "commits_url": "https://api.github.com/repos/zephyr4123/snug/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/zephyr4123/snug/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/zephyr4123/snug/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/zephyr4123/snug/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/zephyr4123/snug/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/zephyr4123/snug/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/zephyr4123/snug/merges",
+      "archive_url": "https://api.github.com/repos/zephyr4123/snug/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/zephyr4123/snug/downloads",
+      "issues_url": "https://api.github.com/repos/zephyr4123/snug/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/zephyr4123/snug/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/zephyr4123/snug/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/zephyr4123/snug/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/zephyr4123/snug/labels{/name}",
+      "releases_url": "https://api.github.com/repos/zephyr4123/snug/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/zephyr4123/snug/deployments",
+      "created_at": "2026-11-13T03:26:21Z",
+      "updated_at": "2026-11-25T04:48:58Z",
+      "pushed_at": "2026-11-24T16:16:21Z",
+      "git_url": "git://github.com/zephyr4123/snug.git",
+      "ssh_url": "git@github.com:zephyr4123/snug.git",
+      "clone_url": "https://github.com/zephyr4123/snug.git",
+      "svn_url": "https://github.com/zephyr4123/snug",
+      "homepage": null,
+      "size": 35224,
+      "stargazers_count": 1459,
+      "watchers_count": 1459,
+      "language": "Swift",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": true,
+      "forks_count": 116,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 13,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "android",
+        "crossdesk",
+        "gestures",
+        "ipad",
+        "iphone",
+        "macos",
+        "macos-app",
+        "menubar-app",
+        "multi-monitor",
+        "productivity",
+        "remote-control",
+        "remote-desktop",
+        "swift",
+        "swiftui",
+        "tablet",
+        "uu-remote",
+        "virtual-display",
+        "window-management"
+      ],
+      "visibility": "public",
+      "forks": 116,
+      "open_issues": 13,
+      "watchers": 1459,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 720999514,
+      "node_id": "R_kgDOKvmUWg",
+      "name": "crossdesk",
+      "full_name": "kunkundi/crossdesk",
+      "private": false,
+      "owner": {
+        "login": "kunkundi",
+        "id": 29698109,
+        "node_id": "MDQ6VXNlcjI5Njk4MTA5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29698109?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kunkundi",
+        "html_url": "https://github.com/kunkundi",
+        "followers_url": "https://api.github.com/users/kunkundi/followers",
+        "following_url": "https://api.github.com/users/kunkundi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kunkundi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kunkundi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kunkundi/subscriptions",
+        "organizations_url": "https://api.github.com/users/kunkundi/orgs",
+        "repos_url": "https://api.github.com/users/kunkundi/repos",
+        "events_url": "https://api.github.com/users/kunkundi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kunkundi/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/kunkundi/crossdesk",
+      "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+      "fork": false,
+      "url": "https://api.github.com/repos/kunkundi/crossdesk",
+      "forks_url": "https://api.github.com/repos/kunkundi/crossdesk/forks",
+      "keys_url": "https://api.github.com/repos/kunkundi/crossdesk/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/kunkundi/crossdesk/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/kunkundi/crossdesk/teams",
+      "hooks_url": "https://api.github.com/repos/kunkundi/crossdesk/hooks",
+      "issue_events_url": "https://api.github.com/repos/kunkundi/crossdesk/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/kunkundi/crossdesk/events",
+      "assignees_url": "https://api.github.com/repos/kunkundi/crossdesk/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/kunkundi/crossdesk/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/kunkundi/crossdesk/tags",
+      "blobs_url": "https://api.github.com/repos/kunkundi/crossdesk/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/kunkundi/crossdesk/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/kunkundi/crossdesk/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/kunkundi/crossdesk/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/kunkundi/crossdesk/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/kunkundi/crossdesk/languages",
+      "stargazers_url": "https://api.github.com/repos/kunkundi/crossdesk/stargazers",
+      "contributors_url": "https://api.github.com/repos/kunkundi/crossdesk/contributors",
+      "subscribers_url": "https://api.github.com/repos/kunkundi/crossdesk/subscribers",
+      "subscription_url": "https://api.github.com/repos/kunkundi/crossdesk/subscription",
+      "commits_url": "https://api.github.com/repos/kunkundi/crossdesk/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/kunkundi/crossdesk/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/kunkundi/crossdesk/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/kunkundi/crossdesk/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/kunkundi/crossdesk/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/kunkundi/crossdesk/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/kunkundi/crossdesk/merges",
+      "archive_url": "https://api.github.com/repos/kunkundi/crossdesk/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/kunkundi/crossdesk/downloads",
+      "issues_url": "https://api.github.com/repos/kunkundi/crossdesk/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/kunkundi/crossdesk/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/kunkundi/crossdesk/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/kunkundi/crossdesk/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/kunkundi/crossdesk/labels{/name}",
+      "releases_url": "https://api.github.com/repos/kunkundi/crossdesk/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/kunkundi/crossdesk/deployments",
+      "created_at": "2023-11-20T06:31:52Z",
+      "updated_at": "2026-11-25T04:50:55Z",
+      "pushed_at": "2026-11-25T03:20:03Z",
+      "git_url": "git://github.com/kunkundi/crossdesk.git",
+      "ssh_url": "git@github.com:kunkundi/crossdesk.git",
+      "clone_url": "https://github.com/kunkundi/crossdesk.git",
+      "svn_url": "https://github.com/kunkundi/crossdesk",
+      "homepage": "https://www.crossdesk.cn",
+      "size": 89907,
+      "stargazers_count": 7472,
+      "watchers_count": 7472,
+      "language": "C++",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": true,
+      "forks_count": 790,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 74,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "cli",
+        "cplusplus",
+        "dsh-plugin",
+        "libdatachannel",
+        "mcp",
+        "remote-control",
+        "remote-desktop",
+        "rtc",
+        "rtp",
+        "slint",
+        "video-streaming",
+        "web-client",
+        "webrtc",
+        "xmake"
+      ],
+      "visibility": "public",
+      "forks": 790,
+      "open_issues": 74,
+      "watchers": 7472,
+      "default_branch": "mcp",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1400296395,
       "node_id": "R_kgDOU3bTyw",
       "name": "FigGenie-paper-diagram-skill",
@@ -1915,7 +2181,7 @@
       "releases_url": "https://api.github.com/repos/Sleepy-Avacado/FigGenie-paper-diagram-skill/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Sleepy-Avacado/FigGenie-paper-diagram-skill/deployments",
       "created_at": "2026-10-01T15:54:09Z",
-      "updated_at": "2026-11-23T18:21:39Z",
+      "updated_at": "2026-11-25T02:54:54Z",
       "pushed_at": "2026-10-22T14:35:47Z",
       "git_url": "git://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill.git",
       "ssh_url": "git@github.com:Sleepy-Avacado/FigGenie-paper-diagram-skill.git",
@@ -1923,8 +2189,8 @@
       "svn_url": "https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill",
       "homepage": null,
       "size": 258023,
-      "stargazers_count": 431,
-      "watchers_count": 431,
+      "stargazers_count": 434,
+      "watchers_count": 434,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1953,239 +2219,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 1,
-      "watchers": 431,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1248486524,
-      "node_id": "R_kgDOSmpkfA",
-      "name": "YukiHub",
-      "full_name": "xm486/YukiHub",
-      "private": false,
-      "owner": {
-        "login": "xm486",
-        "id": 125397537,
-        "node_id": "U_kgDOB3lqIQ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/125397537?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/xm486",
-        "html_url": "https://github.com/xm486",
-        "followers_url": "https://api.github.com/users/xm486/followers",
-        "following_url": "https://api.github.com/users/xm486/following{/other_user}",
-        "gists_url": "https://api.github.com/users/xm486/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/xm486/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/xm486/subscriptions",
-        "organizations_url": "https://api.github.com/users/xm486/orgs",
-        "repos_url": "https://api.github.com/users/xm486/repos",
-        "events_url": "https://api.github.com/users/xm486/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/xm486/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/xm486/YukiHub",
-      "description": "YukiHub is a Galgame management tool for Android that supports synchronization of local games, shortcuts, and play records. The project uses the GPL-3.0 open-source license.",
-      "fork": false,
-      "url": "https://api.github.com/repos/xm486/YukiHub",
-      "forks_url": "https://api.github.com/repos/xm486/YukiHub/forks",
-      "keys_url": "https://api.github.com/repos/xm486/YukiHub/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/xm486/YukiHub/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/xm486/YukiHub/teams",
-      "hooks_url": "https://api.github.com/repos/xm486/YukiHub/hooks",
-      "issue_events_url": "https://api.github.com/repos/xm486/YukiHub/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/xm486/YukiHub/events",
-      "assignees_url": "https://api.github.com/repos/xm486/YukiHub/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/xm486/YukiHub/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/xm486/YukiHub/tags",
-      "blobs_url": "https://api.github.com/repos/xm486/YukiHub/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/xm486/YukiHub/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/xm486/YukiHub/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/xm486/YukiHub/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/xm486/YukiHub/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/xm486/YukiHub/languages",
-      "stargazers_url": "https://api.github.com/repos/xm486/YukiHub/stargazers",
-      "contributors_url": "https://api.github.com/repos/xm486/YukiHub/contributors",
-      "subscribers_url": "https://api.github.com/repos/xm486/YukiHub/subscribers",
-      "subscription_url": "https://api.github.com/repos/xm486/YukiHub/subscription",
-      "commits_url": "https://api.github.com/repos/xm486/YukiHub/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/xm486/YukiHub/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/xm486/YukiHub/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/xm486/YukiHub/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/xm486/YukiHub/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/xm486/YukiHub/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/xm486/YukiHub/merges",
-      "archive_url": "https://api.github.com/repos/xm486/YukiHub/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/xm486/YukiHub/downloads",
-      "issues_url": "https://api.github.com/repos/xm486/YukiHub/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/xm486/YukiHub/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/xm486/YukiHub/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/xm486/YukiHub/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/xm486/YukiHub/labels{/name}",
-      "releases_url": "https://api.github.com/repos/xm486/YukiHub/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/xm486/YukiHub/deployments",
-      "created_at": "2026-05-24T17:50:22Z",
-      "updated_at": "2026-11-24T04:16:34Z",
-      "pushed_at": "2026-11-20T16:18:51Z",
-      "git_url": "git://github.com/xm486/YukiHub.git",
-      "ssh_url": "git@github.com:xm486/YukiHub.git",
-      "clone_url": "https://github.com/xm486/YukiHub.git",
-      "svn_url": "https://github.com/xm486/YukiHub",
-      "homepage": "https://yukihub.kesug.com/",
-      "size": 128123,
-      "stargazers_count": 603,
-      "watchers_count": 603,
-      "language": "Java",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 18,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": {
-        "key": "gpl-3.0",
-        "name": "GNU General Public License v3.0",
-        "spdx_id": "GPL-3.0",
-        "url": "https://api.github.com/licenses/gpl-3.0",
-        "node_id": "MDc6TGljZW5zZTk="
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 18,
-      "open_issues": 0,
-      "watchers": 603,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1332691043,
-      "node_id": "R_kgDOT29AYw",
-      "name": "SXP-Simon.github.io",
-      "full_name": "SXP-Simon/SXP-Simon.github.io",
-      "private": false,
-      "owner": {
-        "login": "SXP-Simon",
-        "id": 177809507,
-        "node_id": "U_kgDOCpkoYw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/177809507?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/SXP-Simon",
-        "html_url": "https://github.com/SXP-Simon",
-        "followers_url": "https://api.github.com/users/SXP-Simon/followers",
-        "following_url": "https://api.github.com/users/SXP-Simon/following{/other_user}",
-        "gists_url": "https://api.github.com/users/SXP-Simon/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/SXP-Simon/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/SXP-Simon/subscriptions",
-        "organizations_url": "https://api.github.com/users/SXP-Simon/orgs",
-        "repos_url": "https://api.github.com/users/SXP-Simon/repos",
-        "events_url": "https://api.github.com/users/SXP-Simon/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/SXP-Simon/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/SXP-Simon/SXP-Simon.github.io",
-      "description": "人啊，幸福地活下去！",
-      "fork": false,
-      "url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io",
-      "forks_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/forks",
-      "keys_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/teams",
-      "hooks_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/hooks",
-      "issue_events_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/events",
-      "assignees_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/tags",
-      "blobs_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/languages",
-      "stargazers_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/stargazers",
-      "contributors_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/contributors",
-      "subscribers_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/subscribers",
-      "subscription_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/subscription",
-      "commits_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/merges",
-      "archive_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/downloads",
-      "issues_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/labels{/name}",
-      "releases_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/SXP-Simon/SXP-Simon.github.io/deployments",
-      "created_at": "2026-08-13T04:18:18Z",
-      "updated_at": "2026-11-23T09:28:21Z",
-      "pushed_at": "2026-11-21T07:54:12Z",
-      "git_url": "git://github.com/SXP-Simon/SXP-Simon.github.io.git",
-      "ssh_url": "git@github.com:SXP-Simon/SXP-Simon.github.io.git",
-      "clone_url": "https://github.com/SXP-Simon/SXP-Simon.github.io.git",
-      "svn_url": "https://github.com/SXP-Simon/SXP-Simon.github.io",
-      "homepage": "https://heliannuits.me/",
-      "size": 11779,
-      "stargazers_count": 5,
-      "watchers_count": 5,
-      "language": "Astro",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": true,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 5,
+      "watchers": 434,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -2219,27 +2253,27 @@
             {
               "name": "推理",
               "count": 1224,
-              "total_count": 18616
+              "total_count": 18628
             },
             {
               "name": "弹丸论破",
               "count": 1200,
-              "total_count": 3053
+              "total_count": 3054
             },
             {
               "name": "AVG",
               "count": 850,
-              "total_count": 72894
+              "total_count": 72935
             },
             {
               "name": "悬疑",
               "count": 678,
-              "total_count": 33400
+              "total_count": 33422
             },
             {
               "name": "PSP",
               "count": 641,
-              "total_count": 32014
+              "total_count": 32019
             },
             {
               "name": "Spike",
@@ -2249,7 +2283,7 @@
             {
               "name": "神作",
               "count": 257,
-              "total_count": 19628
+              "total_count": 19639
             },
             {
               "name": "狛枝凪斗",
@@ -2259,12 +2293,12 @@
             {
               "name": "PC",
               "count": 153,
-              "total_count": 328846
+              "total_count": 329029
             },
             {
               "name": "chunsoft",
               "count": 118,
-              "total_count": 1285
+              "total_count": 1287
             }
           ],
           "score": 8.5,
@@ -2272,7 +2306,7 @@
           "id": 39066,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 8126,
+          "collection_total": 8127,
           "rank": 101
         },
         "subject_id": 39066,
@@ -2305,27 +2339,27 @@
             {
               "name": "推理",
               "count": 1185,
-              "total_count": 18616
+              "total_count": 18628
             },
             {
               "name": "弹丸论破",
               "count": 1031,
-              "total_count": 3053
+              "total_count": 3054
             },
             {
               "name": "AVG",
               "count": 799,
-              "total_count": 72894
+              "total_count": 72935
             },
             {
               "name": "PSP",
               "count": 739,
-              "total_count": 32015
+              "total_count": 32019
             },
             {
               "name": "悬疑",
               "count": 420,
-              "total_count": 33400
+              "total_count": 33422
             },
             {
               "name": "Spike",
@@ -2340,12 +2374,12 @@
             {
               "name": "PC",
               "count": 170,
-              "total_count": 328845
+              "total_count": 329029
             },
             {
               "name": "2010",
               "count": 163,
-              "total_count": 3942
+              "total_count": 3945
             },
             {
               "name": "ダンガンロンパ",
@@ -2358,8 +2392,8 @@
           "id": 10336,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 7849,
-          "rank": 719
+          "collection_total": 7850,
+          "rank": 718
         },
         "subject_id": 10336,
         "vol_status": 0,
@@ -2389,12 +2423,12 @@
             {
               "name": "Galgame",
               "count": 1183,
-              "total_count": 463623
+              "total_count": 463712
             },
             {
               "name": "悬疑",
-              "count": 693,
-              "total_count": 33401
+              "count": 694,
+              "total_count": 33420
             },
             {
               "name": "范乃秋晴",
@@ -2419,7 +2453,7 @@
             {
               "name": "科幻",
               "count": 213,
-              "total_count": 9858
+              "total_count": 9859
             },
             {
               "name": "シルキーズプラス",
@@ -2429,12 +2463,12 @@
             {
               "name": "2017",
               "count": 197,
-              "total_count": 9348
+              "total_count": 9351
             },
             {
               "name": "PC",
               "count": 176,
-              "total_count": 328901
+              "total_count": 329020
             }
           ],
           "score": 7.9,
@@ -2442,8 +2476,8 @@
           "id": 210068,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 6733,
-          "rank": 479
+          "collection_total": 6736,
+          "rank": 476
         },
         "subject_id": 210068,
         "vol_status": 0,
@@ -2472,8 +2506,8 @@
           "tags": [
             {
               "name": "KID",
-              "count": 145,
-              "total_count": 6769
+              "count": 146,
+              "total_count": 6776
             },
             {
               "name": "打越钢太郎",
@@ -2482,23 +2516,23 @@
             },
             {
               "name": "infinity",
-              "count": 87,
-              "total_count": 2340
+              "count": 88,
+              "total_count": 2346
             },
             {
               "name": "Galgame",
               "count": 78,
-              "total_count": 463558
+              "total_count": 463702
             },
             {
               "name": "悬疑",
               "count": 49,
-              "total_count": 33383
+              "total_count": 33419
             },
             {
               "name": "PC",
               "count": 42,
-              "total_count": 327672
+              "total_count": 329012
             },
             {
               "name": "12RIVEN",
@@ -2507,8 +2541,8 @@
             },
             {
               "name": "AVG",
-              "count": 36,
-              "total_count": 72648
+              "count": 37,
+              "total_count": 72926
             },
             {
               "name": "integral",
@@ -2518,7 +2552,7 @@
             {
               "name": "GAL",
               "count": 21,
-              "total_count": 47916
+              "total_count": 47936
             }
           ],
           "score": 7,
@@ -2526,8 +2560,8 @@
           "id": 1736,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 1021,
-          "rank": 3677
+          "collection_total": 1022,
+          "rank": 3655
         },
         "subject_id": 1736,
         "vol_status": 0,
@@ -2611,7 +2645,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 466,
-          "rank": 803
+          "rank": 802
         },
         "subject_id": 194804,
         "vol_status": 0,
@@ -2695,7 +2729,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 269,
-          "rank": 3155
+          "rank": 3153
         },
         "subject_id": 283701,
         "vol_status": 0,
@@ -2727,7 +2761,7 @@
             {
               "name": "Galgame",
               "count": 547,
-              "total_count": 463626
+              "total_count": 463709
             },
             {
               "name": "紫社",
@@ -2742,37 +2776,37 @@
             {
               "name": "轮回",
               "count": 264,
-              "total_count": 4116
+              "total_count": 4117
             },
             {
               "name": "さかき傘",
-              "count": 252,
-              "total_count": 2943
+              "count": 253,
+              "total_count": 2945
             },
             {
               "name": "Purplesoftware",
               "count": 219,
-              "total_count": 3392
+              "total_count": 3393
             },
             {
               "name": "R18",
               "count": 160,
-              "total_count": 44224
+              "total_count": 44255
             },
             {
               "name": "悬疑",
               "count": 146,
-              "total_count": 33401
+              "total_count": 33420
             },
             {
               "name": "PC",
               "count": 140,
-              "total_count": 328909
+              "total_count": 329018
             },
             {
               "name": "2025",
               "count": 102,
-              "total_count": 6871
+              "total_count": 6875
             }
           ],
           "score": 7.5,
@@ -2780,8 +2814,8 @@
           "id": 566420,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 3177,
-          "rank": 1303
+          "collection_total": 3180,
+          "rank": 1298
         },
         "subject_id": 566420,
         "vol_status": 0,
@@ -2899,17 +2933,17 @@
             {
               "name": "Galgame",
               "count": 1267,
-              "total_count": 463613
+              "total_count": 463696
             },
             {
               "name": "猎奇",
               "count": 1152,
-              "total_count": 19259
+              "total_count": 19264
             },
             {
               "name": "CLOCKUP",
-              "count": 921,
-              "total_count": 3676
+              "count": 922,
+              "total_count": 3677
             },
             {
               "name": "重口味",
@@ -2924,22 +2958,22 @@
             {
               "name": "纯爱",
               "count": 496,
-              "total_count": 31466
+              "total_count": 31483
             },
             {
               "name": "浅生詠",
               "count": 318,
-              "total_count": 1009
+              "total_count": 1010
             },
             {
               "name": "剧情",
               "count": 281,
-              "total_count": 7000
+              "total_count": 7002
             },
             {
               "name": "PC",
               "count": 252,
-              "total_count": 328845
+              "total_count": 329009
             },
             {
               "name": "近神作",
@@ -2952,8 +2986,8 @@
           "id": 19385,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 7072,
-          "rank": 3036
+          "collection_total": 7073,
+          "rank": 3034
         },
         "subject_id": 19385,
         "vol_status": 0,
@@ -2983,52 +3017,52 @@
             {
               "name": "百合",
               "count": 1199,
-              "total_count": 24388
+              "total_count": 24395
             },
             {
               "name": "推理",
               "count": 1014,
-              "total_count": 18616
+              "total_count": 18628
             },
             {
               "name": "Galgame",
-              "count": 994,
-              "total_count": 463664
+              "count": 995,
+              "total_count": 463740
             },
             {
               "name": "悬疑",
               "count": 826,
-              "total_count": 33401
+              "total_count": 33422
             },
             {
               "name": "魔法少女",
-              "count": 746,
-              "total_count": 1956
+              "count": 747,
+              "total_count": 1957
             },
             {
               "name": "全年龄",
-              "count": 577,
-              "total_count": 37506
+              "count": 578,
+              "total_count": 37525
             },
             {
               "name": "ADV",
-              "count": 512,
-              "total_count": 52655
+              "count": 513,
+              "total_count": 52674
             },
             {
               "name": "PC",
-              "count": 497,
-              "total_count": 328942
+              "count": 498,
+              "total_count": 329032
             },
             {
               "name": "游戏",
-              "count": 350,
-              "total_count": 162577
+              "count": 351,
+              "total_count": 162633
             },
             {
               "name": "2025",
-              "count": 348,
-              "total_count": 6871
+              "count": 349,
+              "total_count": 6876
             }
           ],
           "score": 7.2,
@@ -3036,8 +3070,8 @@
           "id": 488392,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 8204,
-          "rank": 2397
+          "collection_total": 8206,
+          "rank": 2392
         },
         "subject_id": 488392,
         "vol_status": 0,
@@ -3068,18 +3102,18 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 795,
-              "total_count": 463575
+              "count": 796,
+              "total_count": 463727
             },
             {
               "name": "命运石之门",
-              "count": 782,
-              "total_count": 3571
+              "count": 783,
+              "total_count": 3573
             },
             {
               "name": "5pb",
-              "count": 523,
-              "total_count": 4607
+              "count": 524,
+              "total_count": 4610
             },
             {
               "name": "假想科学ADV",
@@ -3094,27 +3128,27 @@
             {
               "name": "悬疑",
               "count": 265,
-              "total_count": 33391
+              "total_count": 33422
             },
             {
               "name": "AVG",
               "count": 214,
-              "total_count": 72891
+              "total_count": 72935
             },
             {
               "name": "Nitro+",
               "count": 190,
-              "total_count": 11807
+              "total_count": 11820
             },
             {
               "name": "PC",
-              "count": 132,
-              "total_count": 328838
+              "count": 133,
+              "total_count": 329029
             },
             {
               "name": "ADV",
               "count": 125,
-              "total_count": 52626
+              "total_count": 52674
             }
           ],
           "score": 7.9,
@@ -3122,8 +3156,8 @@
           "id": 129820,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 5954,
-          "rank": 504
+          "collection_total": 5956,
+          "rank": 502
         },
         "subject_id": 129820,
         "vol_status": 0,
@@ -3154,53 +3188,53 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 596,
-              "total_count": 463577
+              "count": 597,
+              "total_count": 463709
             },
             {
               "name": "柚子社",
-              "count": 580,
-              "total_count": 12947
+              "count": 581,
+              "total_count": 12954
             },
             {
               "name": "废萌",
-              "count": 388,
-              "total_count": 24700
+              "count": 389,
+              "total_count": 24710
             },
             {
               "name": "Yuzusoft",
-              "count": 282,
-              "total_count": 345
+              "count": 283,
+              "total_count": 346
             },
             {
               "name": "さかき傘",
-              "count": 196,
-              "total_count": 2943
+              "count": 197,
+              "total_count": 2945
             },
             {
               "name": "PC",
-              "count": 153,
-              "total_count": 328839
+              "count": 154,
+              "total_count": 329018
             },
             {
               "name": "2025",
-              "count": 152,
-              "total_count": 6872
+              "count": 153,
+              "total_count": 6875
             },
             {
               "name": "夏和小",
-              "count": 119,
-              "total_count": 2593
+              "count": 120,
+              "total_count": 2594
             },
             {
               "name": "ゆずソフト",
               "count": 93,
-              "total_count": 2965
+              "total_count": 2967
             },
             {
               "name": "Windows",
-              "count": 77,
-              "total_count": 45985
+              "count": 78,
+              "total_count": 46161
             }
           ],
           "score": 6.9,
@@ -3208,8 +3242,8 @@
           "id": 561526,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 4128,
-          "rank": 4197
+          "collection_total": 4129,
+          "rank": 4205
         },
         "subject_id": 561526,
         "vol_status": 0,
@@ -3244,43 +3278,43 @@
           "tags": [
             {
               "name": "中泽工",
-              "count": 434,
-              "total_count": 1872
+              "count": 435,
+              "total_count": 1876
             },
             {
               "name": "Galgame",
-              "count": 400,
-              "total_count": 463248
+              "count": 401,
+              "total_count": 463702
             },
             {
               "name": "田中ロミオ",
-              "count": 368,
-              "total_count": 10475
+              "count": 369,
+              "total_count": 10482
             },
             {
               "name": "悬疑",
-              "count": 250,
-              "total_count": 33385
+              "count": 251,
+              "total_count": 33419
             },
             {
               "name": "賽博朋克",
-              "count": 199,
-              "total_count": 625
+              "count": 200,
+              "total_count": 626
             },
             {
               "name": "全年龄",
               "count": 142,
-              "total_count": 37433
+              "total_count": 37522
             },
             {
               "name": "PC",
               "count": 121,
-              "total_count": 327702
+              "total_count": 329012
             },
             {
               "name": "AVG",
-              "count": 98,
-              "total_count": 72655
+              "count": 99,
+              "total_count": 72927
             },
             {
               "name": "世界观",
@@ -3290,7 +3324,7 @@
             {
               "name": "中澤工",
               "count": 71,
-              "total_count": 273
+              "total_count": 274
             }
           ],
           "score": 8.1,
@@ -3298,8 +3332,8 @@
           "id": 1079,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 3720,
-          "rank": 343
+          "collection_total": 3722,
+          "rank": 341
         },
         "subject_id": 1079,
         "vol_status": 0,
@@ -3329,17 +3363,17 @@
             {
               "name": "Galgame",
               "count": 131,
-              "total_count": 463408
+              "total_count": 463752
             },
             {
               "name": "KID",
               "count": 70,
-              "total_count": 6766
+              "total_count": 6776
             },
             {
               "name": "5pb.",
               "count": 56,
-              "total_count": 3374
+              "total_count": 3376
             },
             {
               "name": "志倉千代丸",
@@ -3349,27 +3383,27 @@
             {
               "name": "重制",
               "count": 36,
-              "total_count": 1729
+              "total_count": 1731
             },
             {
               "name": "Ever17",
               "count": 33,
-              "total_count": 2019
+              "total_count": 2022
             },
             {
               "name": "AVG",
               "count": 32,
-              "total_count": 72862
+              "total_count": 72937
             },
             {
               "name": "悬疑",
               "count": 30,
-              "total_count": 33371
+              "total_count": 33422
             },
             {
               "name": "GAL",
               "count": 29,
-              "total_count": 47888
+              "total_count": 47936
             },
             {
               "name": "Xbox",
@@ -3382,7 +3416,7 @@
           "id": 38979,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 1306,
+          "collection_total": 1307,
           "rank": 161
         },
         "subject_id": 38979,
@@ -3417,27 +3451,27 @@
           "tags": [
             {
               "name": "命运石之门",
-              "count": 2198,
-              "total_count": 3571
+              "count": 2199,
+              "total_count": 3573
             },
             {
               "name": "5pb",
-              "count": 1845,
-              "total_count": 4608
+              "count": 1846,
+              "total_count": 4610
             },
             {
               "name": "Galgame",
-              "count": 1821,
-              "total_count": 463665
+              "count": 1822,
+              "total_count": 463728
             },
             {
               "name": "Nitro+",
-              "count": 1516,
-              "total_count": 11809
+              "count": 1517,
+              "total_count": 11820
             },
             {
               "name": "空想科学ADV",
-              "count": 1218,
+              "count": 1219,
               "total_count": 1302
             },
             {
@@ -3448,7 +3482,7 @@
             {
               "name": "中二",
               "count": 681,
-              "total_count": 1386
+              "total_count": 1387
             },
             {
               "name": "科学幻想",
@@ -3458,12 +3492,12 @@
             {
               "name": "PC",
               "count": 485,
-              "total_count": 328942
+              "total_count": 329030
             },
             {
               "name": "AVG",
               "count": 341,
-              "total_count": 72905
+              "total_count": 72935
             }
           ],
           "score": 8.9,
@@ -3471,7 +3505,7 @@
           "id": 3154,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 16084,
+          "collection_total": 16090,
           "rank": 11
         },
         "subject_id": 3154,
@@ -3505,7 +3539,7 @@
             {
               "name": "Galgame",
               "count": 1414,
-              "total_count": 463622
+              "total_count": 463730
             },
             {
               "name": "Qruppo",
@@ -3530,12 +3564,12 @@
             {
               "name": "PC",
               "count": 356,
-              "total_count": 328901
+              "total_count": 329030
             },
             {
               "name": "燃",
               "count": 353,
-              "total_count": 5269
+              "total_count": 5272
             },
             {
               "name": "2022",
@@ -3545,7 +3579,7 @@
             {
               "name": "R18",
               "count": 229,
-              "total_count": 44224
+              "total_count": 44260
             },
             {
               "name": "骨折王子",
@@ -3558,7 +3592,7 @@
           "id": 347780,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 8852,
+          "collection_total": 8851,
           "rank": 61
         },
         "subject_id": 347780,
@@ -3595,22 +3629,22 @@
             {
               "name": "key",
               "count": 2390,
-              "total_count": 20399
+              "total_count": 20404
             },
             {
               "name": "Galgame",
               "count": 2128,
-              "total_count": 463612
+              "total_count": 463727
             },
             {
               "name": "麻枝准",
               "count": 1563,
-              "total_count": 9317
+              "total_count": 9321
             },
             {
               "name": "全年龄",
               "count": 1133,
-              "total_count": 37497
+              "total_count": 37524
             },
             {
               "name": "新島夕",
@@ -3625,7 +3659,7 @@
             {
               "name": "和泉つばす",
               "count": 435,
-              "total_count": 5539
+              "total_count": 5541
             },
             {
               "name": "2018",
@@ -3635,7 +3669,7 @@
             {
               "name": "催泪",
               "count": 339,
-              "total_count": 7853
+              "total_count": 7856
             },
             {
               "name": "na-ga",
@@ -3648,7 +3682,7 @@
           "id": 200763,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 11214,
+          "collection_total": 11215,
           "rank": 204
         },
         "subject_id": 200763,
@@ -3683,7 +3717,7 @@
             {
               "name": "Galgame",
               "count": 985,
-              "total_count": 463610
+              "total_count": 463699
             },
             {
               "name": "冬茜トム",
@@ -3698,12 +3732,12 @@
             {
               "name": "推理",
               "count": 463,
-              "total_count": 18615
+              "total_count": 18625
             },
             {
               "name": "悬疑",
               "count": 353,
-              "total_count": 33394
+              "total_count": 33418
             },
             {
               "name": "きゃべつそふと",
@@ -3718,17 +3752,17 @@
             {
               "name": "2020",
               "count": 158,
-              "total_count": 9243
+              "total_count": 9246
             },
             {
               "name": "纯爱",
               "count": 141,
-              "total_count": 31466
+              "total_count": 31483
             },
             {
               "name": "PC",
               "count": 105,
-              "total_count": 328856
+              "total_count": 329010
             }
           ],
           "score": 7.6,
@@ -3736,8 +3770,8 @@
           "id": 292024,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 5479,
-          "rank": 1016
+          "collection_total": 5481,
+          "rank": 1014
         },
         "subject_id": 292024,
         "vol_status": 0,
@@ -3824,7 +3858,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 510,
-          "rank": 4934
+          "rank": 4930
         },
         "subject_id": 172745,
         "vol_status": 0,
@@ -3911,7 +3945,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 1822,
-          "rank": 3711
+          "rank": 3710
         },
         "subject_id": 1141,
         "vol_status": 0,
@@ -3946,12 +3980,12 @@
             {
               "name": "拔作",
               "count": 418,
-              "total_count": 103144
+              "total_count": 103212
             },
             {
               "name": "Galgame",
               "count": 393,
-              "total_count": 463568
+              "total_count": 463694
             },
             {
               "name": "姐",
@@ -3971,7 +4005,7 @@
             {
               "name": "实用",
               "count": 125,
-              "total_count": 4688
+              "total_count": 4689
             },
             {
               "name": "射爆",
@@ -3981,17 +4015,17 @@
             {
               "name": "巨乳",
               "count": 96,
-              "total_count": 6445
+              "total_count": 6451
             },
             {
               "name": "PC",
               "count": 69,
-              "total_count": 328832
+              "total_count": 329007
             },
             {
               "name": "汉化",
               "count": 68,
-              "total_count": 33336
+              "total_count": 33338
             }
           ],
           "score": 6.4,
@@ -3999,7 +4033,7 @@
           "id": 231561,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 2427,
+          "collection_total": 2428,
           "rank": 7392
         },
         "subject_id": 231561,
@@ -4087,7 +4121,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 436,
-          "rank": 10321
+          "rank": 10322
         },
         "subject_id": 283285,
         "vol_status": 0,
@@ -4121,38 +4155,38 @@
           "tags": [
             {
               "name": "KID",
-              "count": 1117,
-              "total_count": 6770
+              "count": 1119,
+              "total_count": 6776
             },
             {
               "name": "Galgame",
-              "count": 1037,
-              "total_count": 463624
+              "count": 1038,
+              "total_count": 463752
             },
             {
               "name": "打越刚太郎",
-              "count": 998,
-              "total_count": 2176
+              "count": 999,
+              "total_count": 2177
             },
             {
               "name": "infinity",
-              "count": 868,
-              "total_count": 2341
+              "count": 870,
+              "total_count": 2346
             },
             {
               "name": "悬疑",
-              "count": 826,
-              "total_count": 33401
+              "count": 827,
+              "total_count": 33422
             },
             {
               "name": "中泽工",
-              "count": 656,
-              "total_count": 1874
+              "count": 657,
+              "total_count": 1876
             },
             {
               "name": "AVG",
-              "count": 478,
-              "total_count": 72897
+              "count": 479,
+              "total_count": 72937
             },
             {
               "name": "Remember11",
@@ -4162,12 +4196,12 @@
             {
               "name": "PC",
               "count": 232,
-              "total_count": 328907
+              "total_count": 329034
             },
             {
               "name": "神作",
-              "count": 220,
-              "total_count": 19629
+              "count": 221,
+              "total_count": 19640
             }
           ],
           "score": 8.9,
@@ -4175,8 +4209,8 @@
           "id": 1127,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 9228,
-          "rank": 13
+          "collection_total": 9235,
+          "rank": 14
         },
         "subject_id": 1127,
         "vol_status": 0,
@@ -4292,17 +4326,17 @@
             {
               "name": "田中ロミオ",
               "count": 660,
-              "total_count": 10476
+              "total_count": 10482
             },
             {
               "name": "Galgame",
               "count": 457,
-              "total_count": 463602
+              "total_count": 463752
             },
             {
               "name": "哲学",
               "count": 216,
-              "total_count": 5105
+              "total_count": 5107
             },
             {
               "name": "求汉化",
@@ -4312,7 +4346,7 @@
             {
               "name": "科幻",
               "count": 124,
-              "total_count": 9858
+              "total_count": 9859
             },
             {
               "name": "杂学",
@@ -4332,12 +4366,12 @@
             {
               "name": "2005",
               "count": 77,
-              "total_count": 2737
+              "total_count": 2738
             },
             {
               "name": "PC",
               "count": 72,
-              "total_count": 328849
+              "total_count": 329034
             }
           ],
           "score": 8.3,
@@ -4346,7 +4380,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 4466,
-          "rank": 190
+          "rank": 188
         },
         "subject_id": 7978,
         "vol_status": 0,
@@ -4381,22 +4415,22 @@
             {
               "name": "星空めてお",
               "count": 601,
-              "total_count": 1790
+              "total_count": 1792
             },
             {
               "name": "Galgame",
               "count": 505,
-              "total_count": 463613
+              "total_count": 463684
             },
             {
               "name": "Liar-soft",
               "count": 502,
-              "total_count": 3186
+              "total_count": 3187
             },
             {
               "name": "哲学",
               "count": 272,
-              "total_count": 5105
+              "total_count": 5106
             },
             {
               "name": "文学",
@@ -4406,7 +4440,7 @@
             {
               "name": "PC",
               "count": 127,
-              "total_count": 328845
+              "total_count": 329001
             },
             {
               "name": "星空欺负俺们文盲",
@@ -4421,12 +4455,12 @@
             {
               "name": "GAL",
               "count": 76,
-              "total_count": 47920
+              "total_count": 47936
             },
             {
               "name": "ADV",
               "count": 56,
-              "total_count": 52634
+              "total_count": 52666
             }
           ],
           "score": 8.5,
@@ -4434,7 +4468,7 @@
           "id": 5395,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 4537,
+          "collection_total": 4538,
           "rank": 102
         },
         "subject_id": 5395,
@@ -4467,12 +4501,12 @@
             {
               "name": "国产",
               "count": 917,
-              "total_count": 36695
+              "total_count": 36699
             },
             {
               "name": "ARPG",
               "count": 811,
-              "total_count": 22949
+              "total_count": 22956
             },
             {
               "name": "游戏科学",
@@ -4482,7 +4516,7 @@
             {
               "name": "PC",
               "count": 465,
-              "total_count": 328942
+              "total_count": 329001
             },
             {
               "name": "西游",
@@ -4492,12 +4526,12 @@
             {
               "name": "2024",
               "count": 315,
-              "total_count": 7709
+              "total_count": 7712
             },
             {
               "name": "ACT",
               "count": 309,
-              "total_count": 51974
+              "total_count": 51975
             },
             {
               "name": "3A",
@@ -4507,12 +4541,12 @@
             {
               "name": "中国",
               "count": 208,
-              "total_count": 2824
+              "total_count": 2826
             },
             {
               "name": "PS5",
               "count": 154,
-              "total_count": 11360
+              "total_count": 11363
             }
           ],
           "score": 7.7,
@@ -4520,8 +4554,8 @@
           "id": 313495,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 5878,
-          "rank": 791
+          "collection_total": 5880,
+          "rank": 792
         },
         "subject_id": 313495,
         "vol_status": 0,
@@ -4550,18 +4584,18 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 573,
-              "total_count": 463610
+              "count": 572,
+              "total_count": 463701
             },
             {
               "name": "拔作",
               "count": 537,
-              "total_count": 103155
+              "total_count": 103213
             },
             {
               "name": "民俗",
               "count": 374,
-              "total_count": 2815
+              "total_count": 2816
             },
             {
               "name": "Escu:de",
@@ -4570,13 +4604,13 @@
             },
             {
               "name": "悬疑",
-              "count": 249,
-              "total_count": 33394
+              "count": 250,
+              "total_count": 33418
             },
             {
               "name": "R18",
               "count": 156,
-              "total_count": 44213
+              "total_count": 44253
             },
             {
               "name": "御苑生メイ",
@@ -4591,12 +4625,12 @@
             {
               "name": "PC",
               "count": 104,
-              "total_count": 328856
+              "total_count": 329010
             },
             {
               "name": "ADV",
               "count": 81,
-              "total_count": 52632
+              "total_count": 52669
             }
           ],
           "score": 6.8,
@@ -4604,8 +4638,8 @@
           "id": 398107,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 3664,
-          "rank": 5215
+          "collection_total": 3665,
+          "rank": 5208
         },
         "subject_id": 398107,
         "vol_status": 0,
@@ -4643,17 +4677,17 @@
             {
               "name": "alicesoft",
               "count": 1104,
-              "total_count": 12036
+              "total_count": 12038
             },
             {
               "name": "Galgame",
               "count": 888,
-              "total_count": 463622
+              "total_count": 463684
             },
             {
               "name": "RPG",
               "count": 590,
-              "total_count": 95473
+              "total_count": 95515
             },
             {
               "name": "系列完结",
@@ -4663,7 +4697,7 @@
             {
               "name": "游戏性",
               "count": 418,
-              "total_count": 4267
+              "total_count": 4269
             },
             {
               "name": "最终作",
@@ -4678,12 +4712,12 @@
             {
               "name": "黄油",
               "count": 285,
-              "total_count": 20988
+              "total_count": 21006
             },
             {
               "name": "PC",
               "count": 262,
-              "total_count": 328901
+              "total_count": 329001
             }
           ],
           "score": 9.3,
@@ -4691,7 +4725,7 @@
           "id": 226254,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 7379,
+          "collection_total": 7380,
           "rank": 2
         },
         "subject_id": 226254,
@@ -4725,12 +4759,12 @@
             {
               "name": "minori",
               "count": 2006,
-              "total_count": 8131
+              "total_count": 8133
             },
             {
               "name": "Galgame",
               "count": 1812,
-              "total_count": 463569
+              "total_count": 463730
             },
             {
               "name": "eden",
@@ -4755,17 +4789,17 @@
             {
               "name": "GAL",
               "count": 312,
-              "total_count": 47917
+              "total_count": 47936
             },
             {
               "name": "PC",
               "count": 280,
-              "total_count": 328834
+              "total_count": 329030
             },
             {
               "name": "AVG",
               "count": 249,
-              "total_count": 72889
+              "total_count": 72936
             },
             {
               "name": "鏡遊",
@@ -4778,7 +4812,7 @@
           "id": 2288,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 10069,
+          "collection_total": 10074,
           "rank": 620
         },
         "subject_id": 2288,
@@ -4812,13 +4846,13 @@
           "tags": [
             {
               "name": "国产",
-              "count": 570,
-              "total_count": 36694
+              "count": 571,
+              "total_count": 36706
             },
             {
               "name": "Galgame",
-              "count": 522,
-              "total_count": 463613
+              "count": 524,
+              "total_count": 463748
             },
             {
               "name": "历史",
@@ -4827,8 +4861,8 @@
             },
             {
               "name": "全年龄",
-              "count": 254,
-              "total_count": 37497
+              "count": 255,
+              "total_count": 37528
             },
             {
               "name": "零创游戏",
@@ -4838,17 +4872,17 @@
             {
               "name": "AVG",
               "count": 211,
-              "total_count": 72894
+              "total_count": 72937
             },
             {
               "name": "萝莉",
               "count": 151,
-              "total_count": 18596
+              "total_count": 18605
             },
             {
               "name": "PC",
-              "count": 121,
-              "total_count": 328845
+              "count": 122,
+              "total_count": 329032
             },
             {
               "name": "公路片",
@@ -4858,7 +4892,7 @@
             {
               "name": "2024",
               "count": 97,
-              "total_count": 7709
+              "total_count": 7713
             }
           ],
           "score": 6,
@@ -4866,7 +4900,7 @@
           "id": 448682,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 2915,
+          "collection_total": 2917,
           "rank": 9572
         },
         "subject_id": 448682,
@@ -4896,18 +4930,18 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 951,
-              "total_count": 463613
+              "count": 953,
+              "total_count": 463696
             },
             {
               "name": "同人",
-              "count": 653,
-              "total_count": 33898
+              "count": 654,
+              "total_count": 33916
             },
             {
               "name": "推理悬疑",
-              "count": 495,
-              "total_count": 757
+              "count": 496,
+              "total_count": 758
             },
             {
               "name": "Novectacle",
@@ -4917,12 +4951,12 @@
             {
               "name": "AVG",
               "count": 397,
-              "total_count": 72894
+              "total_count": 72920
             },
             {
               "name": "悬疑",
-              "count": 390,
-              "total_count": 33400
+              "count": 391,
+              "total_count": 33418
             },
             {
               "name": "馆",
@@ -4932,12 +4966,12 @@
             {
               "name": "全年龄",
               "count": 243,
-              "total_count": 37497
+              "total_count": 37520
             },
             {
               "name": "PC",
               "count": 242,
-              "total_count": 328845
+              "total_count": 329009
             },
             {
               "name": "魔女",
@@ -4950,7 +4984,7 @@
           "id": 73806,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 6865,
+          "collection_total": 6869,
           "rank": 136
         },
         "subject_id": 73806,
@@ -4988,7 +5022,7 @@
             {
               "name": "Galgame",
               "count": 720,
-              "total_count": 463659
+              "total_count": 463668
             },
             {
               "name": "狗神煌",
@@ -4998,7 +5032,7 @@
             {
               "name": "SCA-自",
               "count": 387,
-              "total_count": 7751
+              "total_count": 7752
             },
             {
               "name": "治愈",
@@ -5018,7 +5052,7 @@
             {
               "name": "GAL",
               "count": 126,
-              "total_count": 47929
+              "total_count": 47936
             },
             {
               "name": "光源氏计划",
@@ -5028,7 +5062,7 @@
             {
               "name": "汉化",
               "count": 88,
-              "total_count": 33337
+              "total_count": 33338
             }
           ],
           "score": 7.7,
@@ -5036,8 +5070,8 @@
           "id": 41565,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 4782,
-          "rank": 961
+          "collection_total": 4783,
+          "rank": 959
         },
         "subject_id": 41565,
         "vol_status": 0,
@@ -5070,53 +5104,53 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 2809,
-              "total_count": 463623
+              "count": 2810,
+              "total_count": 463738
             },
             {
               "name": "KID",
-              "count": 2281,
-              "total_count": 6770
+              "count": 2283,
+              "total_count": 6776
             },
             {
               "name": "Ever17",
-              "count": 1986,
-              "total_count": 2021
+              "count": 1987,
+              "total_count": 2022
             },
             {
               "name": "悬疑",
-              "count": 1933,
-              "total_count": 33401
+              "count": 1934,
+              "total_count": 33422
             },
             {
               "name": "神作",
-              "count": 1562,
-              "total_count": 19628
+              "count": 1563,
+              "total_count": 19640
             },
             {
               "name": "打越鋼太郎",
-              "count": 1444,
-              "total_count": 3104
+              "count": 1445,
+              "total_count": 3106
             },
             {
               "name": "infinity",
-              "count": 1061,
-              "total_count": 2340
+              "count": 1062,
+              "total_count": 2346
             },
             {
               "name": "科幻",
               "count": 1017,
-              "total_count": 9858
+              "total_count": 9859
             },
             {
               "name": "打越刚太郎",
               "count": 920,
-              "total_count": 2175
+              "total_count": 2177
             },
             {
               "name": "AVG",
-              "count": 767,
-              "total_count": 72895
+              "count": 768,
+              "total_count": 72937
             }
           ],
           "score": 9,
@@ -5124,8 +5158,8 @@
           "id": 1126,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 17397,
-          "rank": 6
+          "collection_total": 17402,
+          "rank": 7
         },
         "subject_id": 1126,
         "vol_status": 0,
@@ -5211,7 +5245,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 185,
-          "rank": 10717
+          "rank": 10718
         },
         "subject_id": 281426,
         "vol_status": 0,
@@ -5248,17 +5282,17 @@
             {
               "name": "开放世界",
               "count": 871,
-              "total_count": 10272
+              "total_count": 10274
             },
             {
               "name": "手游",
               "count": 867,
-              "total_count": 31848
+              "total_count": 31854
             },
             {
               "name": "国产",
               "count": 649,
-              "total_count": 36694
+              "total_count": 36702
             },
             {
               "name": "米哈游",
@@ -5273,7 +5307,7 @@
             {
               "name": "PC",
               "count": 331,
-              "total_count": 328845
+              "total_count": 329010
             },
             {
               "name": "缝合怪",
@@ -5288,7 +5322,7 @@
             {
               "name": "RPG",
               "count": 193,
-              "total_count": 95462
+              "total_count": 95517
             }
           ],
           "score": 5.2,
@@ -5296,7 +5330,7 @@
           "id": 284157,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 6388,
+          "collection_total": 6389,
           "rank": 10745
         },
         "subject_id": 284157,
@@ -5328,18 +5362,18 @@
           "tags": [
             {
               "name": "柚子社",
-              "count": 792,
-              "total_count": 12947
+              "count": 793,
+              "total_count": 12953
             },
             {
               "name": "Galgame",
-              "count": 765,
-              "total_count": 463558
+              "count": 764,
+              "total_count": 463700
             },
             {
               "name": "废萌",
               "count": 369,
-              "total_count": 24698
+              "total_count": 24709
             },
             {
               "name": "夏和小",
@@ -5349,12 +5383,12 @@
             {
               "name": "Yuzu-Soft",
               "count": 314,
-              "total_count": 1363
+              "total_count": 1364
             },
             {
               "name": "2023",
               "count": 188,
-              "total_count": 8013
+              "total_count": 8012
             },
             {
               "name": "长谷川育美",
@@ -5374,7 +5408,7 @@
             {
               "name": "PC",
               "count": 93,
-              "total_count": 328817
+              "total_count": 329010
             }
           ],
           "score": 5.8,
@@ -5417,13 +5451,13 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 1161,
-              "total_count": 463622
+              "count": 1162,
+              "total_count": 463752
             },
             {
               "name": "AKABEiSOFT2",
-              "count": 938,
-              "total_count": 3077
+              "count": 939,
+              "total_count": 3078
             },
             {
               "name": "车轮",
@@ -5463,7 +5497,7 @@
             {
               "name": "PC",
               "count": 149,
-              "total_count": 328901
+              "total_count": 329034
             }
           ],
           "score": 8.1,
@@ -5471,7 +5505,7 @@
           "id": 1124,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 6973,
+          "collection_total": 6975,
           "rank": 335
         },
         "subject_id": 1124,
@@ -5505,27 +5539,27 @@
           "tags": [
             {
               "name": "虚淵玄",
-              "count": 2386,
-              "total_count": 3012
+              "count": 2387,
+              "total_count": 3013
             },
             {
               "name": "Nitro+",
-              "count": 2034,
-              "total_count": 11808
+              "count": 2035,
+              "total_count": 11820
             },
             {
               "name": "Galgame",
-              "count": 1864,
-              "total_count": 463612
+              "count": 1865,
+              "total_count": 463731
             },
             {
               "name": "猎奇",
               "count": 1746,
-              "total_count": 19259
+              "total_count": 19268
             },
             {
               "name": "沙耶之歌",
-              "count": 968,
+              "count": 969,
               "total_count": 971
             },
             {
@@ -5535,8 +5569,8 @@
             },
             {
               "name": "肉块",
-              "count": 676,
-              "total_count": 773
+              "count": 677,
+              "total_count": 774
             },
             {
               "name": "沙耶の唄",
@@ -5545,8 +5579,8 @@
             },
             {
               "name": "PC",
-              "count": 460,
-              "total_count": 328857
+              "count": 461,
+              "total_count": 329030
             },
             {
               "name": "果冻",
@@ -5559,8 +5593,8 @@
           "id": 851,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 12315,
-          "rank": 1326
+          "collection_total": 12319,
+          "rank": 1325
         },
         "subject_id": 851,
         "vol_status": 0,
@@ -5679,38 +5713,38 @@
           "tags": [
             {
               "name": "竜騎士07",
-              "count": 369,
-              "total_count": 4279
+              "count": 370,
+              "total_count": 4285
             },
             {
               "name": "Galgame",
-              "count": 330,
-              "total_count": 463556
+              "count": 331,
+              "total_count": 463728
             },
             {
               "name": "推理",
-              "count": 277,
-              "total_count": 18611
+              "count": 278,
+              "total_count": 18628
             },
             {
               "name": "悬疑",
-              "count": 251,
-              "total_count": 33386
+              "count": 252,
+              "total_count": 33422
             },
             {
               "name": "AVG",
               "count": 195,
-              "total_count": 72883
+              "total_count": 72935
             },
             {
               "name": "龙骑士07",
               "count": 144,
-              "total_count": 2970
+              "total_count": 2976
             },
             {
               "name": "神作",
-              "count": 113,
-              "total_count": 19628
+              "count": 114,
+              "total_count": 19639
             },
             {
               "name": "07th-expansion",
@@ -5719,13 +5753,13 @@
             },
             {
               "name": "奇幻",
-              "count": 99,
-              "total_count": 4244
+              "count": 100,
+              "total_count": 4247
             },
             {
               "name": "PS4",
               "count": 37,
-              "total_count": 29764
+              "total_count": 29774
             }
           ],
           "score": 8.8,
@@ -5733,7 +5767,7 @@
           "id": 328585,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 3538,
+          "collection_total": 3543,
           "rank": 24
         },
         "subject_id": 328585,
@@ -5768,8 +5802,8 @@
           "tags": [
             {
               "name": "key",
-              "count": 2618,
-              "total_count": 20399
+              "count": 2619,
+              "total_count": 20404
             },
             {
               "name": "CLANNAD",
@@ -5778,13 +5812,13 @@
             },
             {
               "name": "Galgame",
-              "count": 1916,
-              "total_count": 463607
+              "count": 1917,
+              "total_count": 463727
             },
             {
               "name": "麻枝准",
-              "count": 1831,
-              "total_count": 9317
+              "count": 1832,
+              "total_count": 9321
             },
             {
               "name": "催泪弹",
@@ -5793,8 +5827,8 @@
             },
             {
               "name": "家族",
-              "count": 777,
-              "total_count": 1276
+              "count": 778,
+              "total_count": 1277
             },
             {
               "name": "人生",
@@ -5822,7 +5856,7 @@
           "id": 13,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 13096,
+          "collection_total": 13098,
           "rank": 15
         },
         "subject_id": 13,
@@ -5862,17 +5896,17 @@
             {
               "name": "Galgame",
               "count": 2117,
-              "total_count": 463661
+              "total_count": 463737
             },
             {
               "name": "leaf",
-              "count": 1548,
-              "total_count": 7498
+              "count": 1549,
+              "total_count": 7500
             },
             {
               "name": "三角恋",
               "count": 1228,
-              "total_count": 3110
+              "total_count": 3112
             },
             {
               "name": "WA2",
@@ -5882,7 +5916,7 @@
             {
               "name": "神作",
               "count": 851,
-              "total_count": 19630
+              "total_count": 19640
             },
             {
               "name": "脱宅神作",
@@ -5892,17 +5926,17 @@
             {
               "name": "致郁",
               "count": 570,
-              "total_count": 6752
+              "total_count": 6755
             },
             {
               "name": "PC",
               "count": 405,
-              "total_count": 328942
+              "total_count": 329030
             },
             {
               "name": "GAL",
               "count": 351,
-              "total_count": 47930
+              "total_count": 47936
             }
           ],
           "score": 9.1,
@@ -5910,8 +5944,8 @@
           "id": 22290,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 12774,
-          "rank": 7
+          "collection_total": 12778,
+          "rank": 6
         },
         "subject_id": 22290,
         "vol_status": 0,
@@ -5949,12 +5983,12 @@
             {
               "name": "SCA-自",
               "count": 1333,
-              "total_count": 7751
+              "total_count": 7752
             },
             {
               "name": "Galgame",
               "count": 1286,
-              "total_count": 463622
+              "total_count": 463734
             },
             {
               "name": "枕",
@@ -5979,17 +6013,17 @@
             {
               "name": "有生之年",
               "count": 336,
-              "total_count": 1712
+              "total_count": 1713
             },
             {
               "name": "新岛夕",
               "count": 179,
-              "total_count": 4027
+              "total_count": 4028
             },
             {
               "name": "PC",
               "count": 167,
-              "total_count": 328852
+              "total_count": 329030
             },
             {
               "name": "十年起步最高终止",
@@ -6002,8 +6036,8 @@
           "id": 220921,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 7904,
-          "rank": 309
+          "collection_total": 7905,
+          "rank": 308
         },
         "subject_id": 220921,
         "vol_status": 0,
@@ -6035,18 +6069,18 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 559,
-              "total_count": 463580
+              "count": 560,
+              "total_count": 463723
             },
             {
               "name": "FrontWing",
-              "count": 552,
-              "total_count": 6264
+              "count": 553,
+              "total_count": 6271
             },
             {
               "name": "全年龄",
               "count": 393,
-              "total_count": 37491
+              "total_count": 37524
             },
             {
               "name": "紺野アスタ",
@@ -6076,12 +6110,12 @@
             {
               "name": "短篇",
               "count": 71,
-              "total_count": 11138
+              "total_count": 11144
             },
             {
-              "name": "GAL",
+              "name": "PC",
               "count": 67,
-              "total_count": 47918
+              "total_count": 329027
             }
           ],
           "score": 5.8,
@@ -6089,8 +6123,8 @@
           "id": 402654,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 2995,
-          "rank": 10057
+          "collection_total": 2996,
+          "rank": 10056
         },
         "subject_id": 402654,
         "vol_status": 0,
@@ -6123,12 +6157,12 @@
             {
               "name": "星空めてお",
               "count": 818,
-              "total_count": 1791
+              "total_count": 1792
             },
             {
               "name": "Galgame",
               "count": 783,
-              "total_count": 463665
+              "total_count": 463713
             },
             {
               "name": "Lair-soft",
@@ -6143,7 +6177,7 @@
             {
               "name": "优秀的氛围",
               "count": 340,
-              "total_count": 561
+              "total_count": 562
             },
             {
               "name": "乱伦",
@@ -6158,17 +6192,17 @@
             {
               "name": "妹控",
               "count": 240,
-              "total_count": 9399
+              "total_count": 9401
             },
             {
               "name": "Liar-soft",
               "count": 213,
-              "total_count": 3186
+              "total_count": 3187
             },
             {
               "name": "PC",
               "count": 144,
-              "total_count": 328943
+              "total_count": 329020
             }
           ],
           "score": 8.2,
@@ -6176,7 +6210,7 @@
           "id": 1012,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 5847,
+          "collection_total": 5850,
           "rank": 232
         },
         "subject_id": 1012,
@@ -6210,23 +6244,23 @@
           "tags": [
             {
               "name": "柚子社",
-              "count": 2122,
-              "total_count": 12949
+              "count": 2123,
+              "total_count": 12953
             },
             {
               "name": "Galgame",
-              "count": 1981,
-              "total_count": 463670
+              "count": 1980,
+              "total_count": 463684
             },
             {
               "name": "废萌",
-              "count": 1157,
-              "total_count": 24706
+              "count": 1158,
+              "total_count": 24710
             },
             {
               "name": "桐谷華",
               "count": 924,
-              "total_count": 2457
+              "total_count": 2458
             },
             {
               "name": "ゆずソフト",
@@ -6240,8 +6274,8 @@
             },
             {
               "name": "纯爱",
-              "count": 343,
-              "total_count": 31475
+              "count": 344,
+              "total_count": 31481
             },
             {
               "name": "甜作",
@@ -6251,7 +6285,7 @@
             {
               "name": "PC",
               "count": 293,
-              "total_count": 328943
+              "total_count": 329001
             },
             {
               "name": "遥そら",
@@ -6264,8 +6298,8 @@
           "id": 113290,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 9929,
-          "rank": 3012
+          "collection_total": 9931,
+          "rank": 3007
         },
         "subject_id": 113290,
         "vol_status": 0,
@@ -6300,18 +6334,18 @@
           "tags": [
             {
               "name": "柚子社",
-              "count": 2733,
-              "total_count": 12949
+              "count": 2734,
+              "total_count": 12953
             },
             {
               "name": "Galgame",
               "count": 2512,
-              "total_count": 463670
+              "total_count": 463700
             },
             {
               "name": "废萌",
               "count": 1662,
-              "total_count": 24706
+              "total_count": 24709
             },
             {
               "name": "桐谷华",
@@ -6331,7 +6365,7 @@
             {
               "name": "ゆずソフト",
               "count": 496,
-              "total_count": 2966
+              "total_count": 2967
             },
             {
               "name": "遥そら",
@@ -6346,7 +6380,7 @@
             {
               "name": "PC",
               "count": 328,
-              "total_count": 328943
+              "total_count": 329010
             }
           ],
           "score": 6.8,
@@ -6354,8 +6388,8 @@
           "id": 172612,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 12064,
-          "rank": 4880
+          "collection_total": 12067,
+          "rank": 4878
         },
         "subject_id": 172612,
         "vol_status": 0,
@@ -6390,43 +6424,43 @@
           "tags": [
             {
               "name": "Galgame",
-              "count": 2644,
-              "total_count": 463619
+              "count": 2645,
+              "total_count": 463701
             },
             {
               "name": "AUGUST",
-              "count": 2216,
-              "total_count": 5721
+              "count": 2217,
+              "total_count": 5722
             },
             {
               "name": "八月社",
-              "count": 1608,
+              "count": 1609,
               "total_count": 3352
             },
             {
               "name": "脏翅膀",
-              "count": 1373,
-              "total_count": 1374
+              "count": 1374,
+              "total_count": 1375
             },
             {
               "name": "穢翼のユースティア",
-              "count": 1021,
-              "total_count": 1021
+              "count": 1022,
+              "total_count": 1022
             },
             {
               "name": "秽翼的尤斯蒂娅",
-              "count": 801,
-              "total_count": 801
+              "count": 802,
+              "total_count": 802
             },
             {
               "name": "PC",
               "count": 504,
-              "total_count": 328850
+              "total_count": 329012
             },
             {
               "name": "GAL",
               "count": 371,
-              "total_count": 47920
+              "total_count": 47936
             },
             {
               "name": "2011",
@@ -6436,7 +6470,7 @@
             {
               "name": "ADV",
               "count": 261,
-              "total_count": 52636
+              "total_count": 52669
             }
           ],
           "score": 8.3,
@@ -6444,7 +6478,7 @@
           "id": 12280,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 14564,
+          "collection_total": 14567,
           "rank": 149
         },
         "subject_id": 12280,
@@ -6479,7 +6513,7 @@
             {
               "name": "Galgame",
               "count": 1004,
-              "total_count": 463670
+              "total_count": 463687
             },
             {
               "name": "Navel",
@@ -6489,7 +6523,7 @@
             {
               "name": "伪娘",
               "count": 667,
-              "total_count": 9813
+              "total_count": 9814
             },
             {
               "name": "妹控",
@@ -6499,12 +6533,12 @@
             {
               "name": "女装",
               "count": 364,
-              "total_count": 4896
+              "total_count": 4897
             },
             {
               "name": "妹",
               "count": 285,
-              "total_count": 21035
+              "total_count": 21065
             },
             {
               "name": "西又葵",
@@ -6524,7 +6558,7 @@
             {
               "name": "FD",
               "count": 145,
-              "total_count": 13511
+              "total_count": 13514
             }
           ],
           "score": 7.9,
@@ -6533,7 +6567,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 5451,
-          "rank": 482
+          "rank": 479
         },
         "subject_id": 66760,
         "vol_status": 0,
@@ -6566,22 +6600,22 @@
             {
               "name": "Galgame",
               "count": 508,
-              "total_count": 463668
+              "total_count": 463707
             },
             {
               "name": "Navel",
               "count": 504,
-              "total_count": 5050
+              "total_count": 5051
             },
             {
               "name": "伪娘",
               "count": 380,
-              "total_count": 9813
+              "total_count": 9816
             },
             {
               "name": "女装",
               "count": 236,
-              "total_count": 4896
+              "total_count": 4898
             },
             {
               "name": "西又葵",
@@ -6601,7 +6635,7 @@
             {
               "name": "GAL",
               "count": 73,
-              "total_count": 47930
+              "total_count": 47936
             },
             {
               "name": "2014",
@@ -6611,7 +6645,7 @@
             {
               "name": "PC",
               "count": 62,
-              "total_count": 328943
+              "total_count": 329015
             }
           ],
           "score": 6.7,
@@ -6620,7 +6654,7 @@
           "eps": 0,
           "volumes": 0,
           "collection_total": 3034,
-          "rank": 5335
+          "rank": 5333
         },
         "subject_id": 105074,
         "vol_status": 0,
@@ -6657,22 +6691,22 @@
             {
               "name": "Galgame",
               "count": 1779,
-              "total_count": 463670
+              "total_count": 463729
             },
             {
               "name": "Navel",
-              "count": 1461,
-              "total_count": 5050
+              "count": 1462,
+              "total_count": 5051
             },
             {
               "name": "伪娘",
-              "count": 1377,
-              "total_count": 9813
+              "count": 1378,
+              "total_count": 9816
             },
             {
               "name": "女装",
               "count": 907,
-              "total_count": 4896
+              "total_count": 4898
             },
             {
               "name": "小仓朝日",
@@ -6710,8 +6744,8 @@
           "id": 44123,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 9492,
-          "rank": 1029
+          "collection_total": 9494,
+          "rank": 1028
         },
         "subject_id": 44123,
         "vol_status": 0,
@@ -6750,32 +6784,32 @@
             {
               "name": "Galgame",
               "count": 3302,
-              "total_count": 463622
+              "total_count": 463740
             },
             {
               "name": "电波",
               "count": 2473,
-              "total_count": 8651
+              "total_count": 8656
             },
             {
               "name": "哲学",
               "count": 2070,
-              "total_count": 5105
+              "total_count": 5107
             },
             {
               "name": "狂气",
               "count": 1732,
-              "total_count": 7551
+              "total_count": 7552
             },
             {
               "name": "SCA-自",
               "count": 1658,
-              "total_count": 7751
+              "total_count": 7752
             },
             {
               "name": "神作",
               "count": 1241,
-              "total_count": 19628
+              "total_count": 19640
             },
             {
               "name": "ケロＱ",
@@ -6834,12 +6868,12 @@
             {
               "name": "Galgame",
               "count": 2810,
-              "total_count": 463622
+              "total_count": 463742
             },
             {
               "name": "SCA-自",
               "count": 2334,
-              "total_count": 7751
+              "total_count": 7752
             },
             {
               "name": "枕",
@@ -6859,7 +6893,7 @@
             {
               "name": "神作",
               "count": 731,
-              "total_count": 19628
+              "total_count": 19640
             },
             {
               "name": "－櫻の森の上を舞う－",
@@ -6874,7 +6908,7 @@
             {
               "name": "有生之年",
               "count": 487,
-              "total_count": 1712
+              "total_count": 1713
             },
             {
               "name": "业界黎明",
@@ -6887,7 +6921,7 @@
           "id": 22423,
           "eps": 0,
           "volumes": 0,
-          "collection_total": 14288,
+          "collection_total": 14290,
           "rank": 29
         },
         "subject_id": 22423,
@@ -7007,52 +7041,52 @@
             {
               "name": "异世界",
               "count": 1152,
-              "total_count": 277105
+              "total_count": 277196
             },
             {
               "name": "2026年7月",
               "count": 836,
-              "total_count": 30794
+              "total_count": 30828
             },
             {
               "name": "奇幻",
               "count": 809,
-              "total_count": 498384
+              "total_count": 498579
             },
             {
               "name": "WHITEFOX",
               "count": 773,
-              "total_count": 34825
+              "total_count": 34829
             },
             {
               "name": "战斗",
               "count": 757,
-              "total_count": 496010
+              "total_count": 496179
             },
             {
               "name": "TV",
               "count": 699,
-              "total_count": 1458364
+              "total_count": 1458713
             },
             {
               "name": "轻小说改",
               "count": 622,
-              "total_count": 513161
+              "total_count": 513307
             },
             {
               "name": "冒险",
               "count": 504,
-              "total_count": 57951
+              "total_count": 57970
             },
             {
               "name": "小说改",
               "count": 433,
-              "total_count": 170417
+              "total_count": 170535
             },
             {
               "name": "轮回",
               "count": 430,
-              "total_count": 17910
+              "total_count": 17916
             }
           ],
           "score": 7.2,
@@ -7060,8 +7094,8 @@
           "id": 633836,
           "eps": 8,
           "volumes": 0,
-          "collection_total": 14006,
-          "rank": 1936
+          "collection_total": 14027,
+          "rank": 1934
         },
         "subject_id": 633836,
         "vol_status": 0,
@@ -7090,53 +7124,53 @@
           "tags": [
             {
               "name": "里番",
-              "count": 188,
-              "total_count": 321318
+              "count": 191,
+              "total_count": 321374
             },
             {
               "name": "2026年10月",
-              "count": 147,
-              "total_count": 14910
+              "count": 149,
+              "total_count": 14986
             },
             {
               "name": "漫画改",
               "count": 137,
-              "total_count": 900055
+              "total_count": 900301
             },
             {
               "name": "TV",
-              "count": 121,
-              "total_count": 1458329
+              "count": 123,
+              "total_count": 1458686
             },
             {
               "name": "泡面番",
               "count": 115,
-              "total_count": 158384
+              "total_count": 158418
             },
             {
               "name": "雪女",
-              "count": 107,
+              "count": 109,
               "total_count": 692
             },
             {
               "name": "2026",
               "count": 85,
-              "total_count": 58573
+              "total_count": 58640
             },
             {
               "name": "僧侣档",
               "count": 65,
-              "total_count": 2418
+              "total_count": 2422
             },
             {
               "name": "日本",
               "count": 63,
-              "total_count": 321076
+              "total_count": 321296
             },
             {
               "name": "后宫",
               "count": 52,
-              "total_count": 314151
+              "total_count": 314252
             }
           ],
           "score": 5.3,
@@ -7144,8 +7178,8 @@
           "id": 656083,
           "eps": 8,
           "volumes": 0,
-          "collection_total": 3568,
-          "rank": 9251
+          "collection_total": 3591,
+          "rank": 9264
         },
         "subject_id": 656083,
         "vol_status": 0,
@@ -7174,53 +7208,53 @@
           "tags": [
             {
               "name": "BanGDream",
-              "count": 8197,
-              "total_count": 21496
+              "count": 8198,
+              "total_count": 21500
             },
             {
               "name": "原创",
-              "count": 7585,
-              "total_count": 641144
+              "count": 7586,
+              "total_count": 641308
             },
             {
               "name": "音乐",
-              "count": 6961,
-              "total_count": 106555
+              "count": 6962,
+              "total_count": 106593
             },
             {
               "name": "百合",
               "count": 6117,
-              "total_count": 417197
+              "total_count": 417301
             },
             {
               "name": "扭曲",
               "count": 5580,
-              "total_count": 12358
+              "total_count": 12359
             },
             {
               "name": "2023年7月",
               "count": 3606,
-              "total_count": 28549
+              "total_count": 28554
             },
             {
               "name": "乐队",
               "count": 3168,
-              "total_count": 24163
+              "total_count": 24169
             },
             {
               "name": "偶像",
               "count": 3038,
-              "total_count": 73233
+              "total_count": 73247
             },
             {
               "name": "TV",
               "count": 2961,
-              "total_count": 1458346
+              "total_count": 1458709
             },
             {
               "name": "3D",
               "count": 2614,
-              "total_count": 52277
+              "total_count": 52295
             }
           ],
           "score": 7.9,
@@ -7228,7 +7262,7 @@
           "id": 428735,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 59493,
+          "collection_total": 59515,
           "rank": 285
         },
         "subject_id": 428735,
@@ -7258,53 +7292,53 @@
           "tags": [
             {
               "name": "异世界",
-              "count": 1675,
-              "total_count": 277103
+              "count": 1677,
+              "total_count": 277196
             },
             {
               "name": "奇幻",
               "count": 1253,
-              "total_count": 498364
+              "total_count": 498579
             },
             {
               "name": "2026年4月",
-              "count": 1128,
-              "total_count": 26870
+              "count": 1127,
+              "total_count": 26886
             },
             {
               "name": "战斗",
-              "count": 1038,
-              "total_count": 496002
+              "count": 1037,
+              "total_count": 496179
             },
             {
               "name": "WHITEFOX",
-              "count": 992,
-              "total_count": 34824
+              "count": 993,
+              "total_count": 34829
             },
             {
               "name": "TV",
               "count": 943,
-              "total_count": 1458342
+              "total_count": 1458713
             },
             {
               "name": "轻小说改",
               "count": 882,
-              "total_count": 513157
+              "total_count": 513307
             },
             {
               "name": "小说改",
-              "count": 654,
-              "total_count": 170417
+              "count": 653,
+              "total_count": 170535
             },
             {
               "name": "冒险",
-              "count": 634,
-              "total_count": 57951
+              "count": 633,
+              "total_count": 57970
             },
             {
               "name": "轮回",
-              "count": 596,
-              "total_count": 17910
+              "count": 598,
+              "total_count": 17916
             }
           ],
           "score": 7.7,
@@ -7312,8 +7346,8 @@
           "id": 547888,
           "eps": 11,
           "volumes": 0,
-          "collection_total": 19825,
-          "rank": 512
+          "collection_total": 19850,
+          "rank": 515
         },
         "subject_id": 547888,
         "vol_status": 0,
@@ -7342,53 +7376,53 @@
           "tags": [
             {
               "name": "东京喰种",
-              "count": 2385,
-              "total_count": 4108
+              "count": 2386,
+              "total_count": 4111
             },
             {
               "name": "漫画改",
-              "count": 2187,
-              "total_count": 900075
+              "count": 2188,
+              "total_count": 900326
             },
             {
               "name": "2014年7月",
               "count": 1984,
-              "total_count": 24221
+              "total_count": 24223
             },
             {
               "name": "战斗",
               "count": 1804,
-              "total_count": 496010
+              "total_count": 496174
             },
             {
               "name": "TV",
               "count": 1547,
-              "total_count": 1458366
+              "total_count": 1458707
             },
             {
               "name": "StudioPierrot",
               "count": 1304,
-              "total_count": 12517
+              "total_count": 12518
             },
             {
               "name": "奇幻",
-              "count": 957,
-              "total_count": 498384
+              "count": 958,
+              "total_count": 498573
             },
             {
               "name": "2014",
               "count": 857,
-              "total_count": 72924
+              "total_count": 72934
             },
             {
               "name": "漫改",
               "count": 784,
-              "total_count": 373103
+              "total_count": 373190
             },
             {
               "name": "花泽香菜",
               "count": 676,
-              "total_count": 43672
+              "total_count": 43673
             }
           ],
           "score": 6.8,
@@ -7396,8 +7430,8 @@
           "id": 93714,
           "eps": 12,
           "volumes": 0,
-          "collection_total": 30796,
-          "rank": 3661
+          "collection_total": 30818,
+          "rank": 3663
         },
         "subject_id": 93714,
         "vol_status": 0,
@@ -7429,52 +7463,52 @@
             {
               "name": "GAL改",
               "count": 2873,
-              "total_count": 80193
+              "total_count": 80216
             },
             {
               "name": "key",
               "count": 2342,
-              "total_count": 47652
+              "total_count": 47682
             },
             {
               "name": "恋爱",
               "count": 2204,
-              "total_count": 589640
+              "total_count": 589926
             },
             {
               "name": "2025年4月",
               "count": 1723,
-              "total_count": 34135
+              "total_count": 34137
             },
             {
               "name": "游戏改",
               "count": 1527,
-              "total_count": 168258
+              "total_count": 168337
             },
             {
               "name": "TV",
               "count": 1513,
-              "total_count": 1458251
+              "total_count": 1458712
             },
             {
               "name": "Feel.",
               "count": 1288,
-              "total_count": 20752
+              "total_count": 20755
             },
             {
               "name": "麻枝准",
               "count": 1100,
-              "total_count": 23637
+              "total_count": 23648
             },
             {
               "name": "治愈",
               "count": 1020,
-              "total_count": 310765
+              "total_count": 310856
             },
             {
               "name": "日本",
               "count": 790,
-              "total_count": 321029
+              "total_count": 321334
             }
           ],
           "score": 7.2,
@@ -7482,8 +7516,8 @@
           "id": 363957,
           "eps": 26,
           "volumes": 0,
-          "collection_total": 29004,
-          "rank": 1980
+          "collection_total": 29018,
+          "rank": 1979
         },
         "subject_id": 363957,
         "vol_status": 0,
@@ -7516,37 +7550,37 @@
             {
               "name": "后宫",
               "count": 1049,
-              "total_count": 314152
+              "total_count": 314260
             },
             {
               "name": "轻小说改",
               "count": 773,
-              "total_count": 513156
+              "total_count": 513304
             },
             {
               "name": "约会大作战",
               "count": 692,
-              "total_count": 9628
+              "total_count": 9632
             },
             {
               "name": "恋爱",
               "count": 666,
-              "total_count": 589703
+              "total_count": 589919
             },
             {
               "name": "2024年4月",
               "count": 633,
-              "total_count": 36536
+              "total_count": 36541
             },
             {
               "name": "战斗",
               "count": 536,
-              "total_count": 495998
+              "total_count": 496174
             },
             {
               "name": "TV",
               "count": 512,
-              "total_count": 1458338
+              "total_count": 1458705
             },
             {
               "name": "GeekToys",
@@ -7556,12 +7590,12 @@
             {
               "name": "2024",
               "count": 286,
-              "total_count": 73696
+              "total_count": 73704
             },
             {
               "name": "轻改",
               "count": 250,
-              "total_count": 157233
+              "total_count": 157281
             }
           ],
           "score": 6.6,
@@ -7569,8 +7603,8 @@
           "id": 389466,
           "eps": 12,
           "volumes": 0,
-          "collection_total": 10669,
-          "rank": 4740
+          "collection_total": 10677,
+          "rank": 4747
         },
         "subject_id": 389466,
         "vol_status": 0,
@@ -7604,38 +7638,38 @@
           "tags": [
             {
               "name": "催泪",
-              "count": 2825,
-              "total_count": 61883
+              "count": 2827,
+              "total_count": 61928
             },
             {
               "name": "原创",
-              "count": 2698,
-              "total_count": 641120
+              "count": 2699,
+              "total_count": 641301
             },
             {
               "name": "动画工房",
-              "count": 2552,
-              "total_count": 65147
+              "count": 2553,
+              "total_count": 65160
             },
             {
               "name": "恋爱",
-              "count": 2551,
-              "total_count": 589650
+              "count": 2552,
+              "total_count": 589920
             },
             {
               "name": "2015年4月",
               "count": 1685,
-              "total_count": 27127
+              "total_count": 27132
             },
             {
               "name": "科幻",
-              "count": 1628,
-              "total_count": 263173
+              "count": 1629,
+              "total_count": 263279
             },
             {
               "name": "TV",
-              "count": 1348,
-              "total_count": 1458280
+              "count": 1349,
+              "total_count": 1458707
             },
             {
               "name": "可塑性记忆",
@@ -7645,7 +7679,7 @@
             {
               "name": "2015",
               "count": 839,
-              "total_count": 70712
+              "total_count": 70722
             },
             {
               "name": "林直孝",
@@ -7658,7 +7692,7 @@
           "id": 114685,
           "eps": 13,
           "volumes": 0,
-          "collection_total": 30524,
+          "collection_total": 30546,
           "rank": 2534
         },
         "subject_id": 114685,
@@ -9592,6 +9626,11 @@
       },
       {
         "date": "2026-11-24",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-25",
         "level": 0,
         "count": 0
       }
